@@ -11,7 +11,7 @@ Downloaded from [BioGRID](https://thebiogrid.org/), [SNAP](http://snap.stanford.
 - **planted** random trees and cycles of cliques poluted with random edges that go bottom-up the optimal treedepth decomposition. These instances were needed for testing correctness of treedepth solvers, because the generator was able to compute the optimum treedepth in polynomial time.
 - **social** social networks originating from interations between people, animals, fiction characters.
 
-If you use the collection please cite Kowalik, Mucha, Nadara, Pilipczuk, Sorge, Wygocki *The PACE 2020 Parameterized Algorithms and
+If you use the collection please cite the report Kowalik, Mucha, Nadara, Pilipczuk, Sorge, Wygocki *The PACE 2020 Parameterized Algorithms and
 Computational Experiments Challenge: Treedepth*, Proc. IPEC 2020, LIPICS (To appear).
 
 ## Instances for Exact Track
