@@ -29,8 +29,12 @@ named               | 20 |
 planted             | 32 |
 social              | 18 |
 
-
 ![](exact-type-stats.png)
+
+There are 200 benchmark instances, labeled exact001.gr to exact200.gr. The instances are ordered lexicographically by non-decreasing (n,m) where n is the number of vertices and m is the number of edges. Graphs exact001.gr - exact176.gr have from 10 to 200 vertices and graphs exact177.gr - exact200.gr have from 201 to 500 vertices (see the histogram below).
+
+![](sizecount_exact_selected.png)
+
 
 ## Instances for Heuristic Track
 
@@ -49,3 +53,6 @@ social              | 33 |
 
 ![](heur-type-stats.png)
 
+There are 200 benchmark instances, labeled heur001.gr to heur200.gr. The instances are ordered lexicographically by non-decreasing (n,m) where n is the number of vertices and m is the number of edges. The number of vertices is between 100 and 2,000,000 (see the histogram below) and the number of edges does not exceed 3,000,000.
+
+![](sizecount_heur_selected.png)
