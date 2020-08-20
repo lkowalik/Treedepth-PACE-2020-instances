@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: www-personal.umich.edu/~mejn/netdata/ 
+c ORIGIN: http://www-personal.umich.edu/~mejn/netdata/ 
 c DESCRIPTION: High-energy theory collaborations: weighted network of coauthorships between scientists posting preprints on the High-Energy Theory E-Print Archive between Jan 1, 1995 and December 31, 1999. Please cite M. E. J. Newman, Proc. Natl. Acad. Sci. USA 98, 404-409 (2001). 
 p tdp 7610 16332
 308 2513

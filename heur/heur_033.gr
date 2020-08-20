@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: named 
-c ORIGIN: github.com/freetdi/named-graphs 
+c ORIGIN: https://github.com/freetdi/named-graphs 
 c DESCRIPTION: The ringed tree on 8 levels. (A ringed tree of level k is a binary tree with k levels (counting the root as a level), in which all vertices at the same level are connected by a ring.) 
 p tdp 255 507
 1 2

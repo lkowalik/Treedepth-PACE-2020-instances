@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: named 
-c ORIGIN: github.com/freetdi/named-graphs 
+c ORIGIN: https://github.com/freetdi/named-graphs 
 c DESCRIPTION: Wiener-Araya graph, see https://en.wikipedia.org/wiki/Wiener%E2%80%93Araya_graph 
 p tdp 42 67
 1 2

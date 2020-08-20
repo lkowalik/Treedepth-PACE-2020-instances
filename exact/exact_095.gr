@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: computer science 
-c ORIGIN: github.com/freetdi/CFGs 
+c ORIGIN: https://github.com/freetdi/CFGs 
 c DESCRIPTION: A control-flow graph of a C function 
 p tdp 82 100
 1 2

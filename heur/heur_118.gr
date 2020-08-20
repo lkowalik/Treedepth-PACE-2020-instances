@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: thebiogrid.org 
+c ORIGIN: https://thebiogrid.org/ 
 c DESCRIPTION: This is a protein-interaction network containing interactions between human proteins determined by mass-spectrometry. Compiled by Drew, K. et al., Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes. Molecular Systems Biology, 13(6), 932, 2017. http://dx.doi.org/10.15252/msb.20167490 
 p tdp 7778 36300
 266 351

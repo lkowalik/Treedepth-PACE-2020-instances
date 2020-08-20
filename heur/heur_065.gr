@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a butterfly similarity network. Nodes represent butterflies (organisms) and edges represent visual similarities between the organisms. Visual similarities are calculated using butterfly images. The information is extracted from the Leeds butterfly fine-grained species image dataset. Network statistics are calculated on edges with weights above the 75-th percentile.  References: Network enhancement as a general method to denoise weighted biological networks. Bo Wang, Armin Pourshafeie, Marinka Zitnik, Junjie Zhu, Carlos D. Bustamante, Serafim Batzoglou, and Jure Leskovec. Nature Communications. 2018. 
 p tdp 832 86528
 1 2

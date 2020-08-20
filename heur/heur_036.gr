@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: www-personal.umich.edu/~mejn/netdata/ 
+c ORIGIN: http://www-personal.umich.edu/~mejn/netdata/ 
 c DESCRIPTION: A directed, weighted network representing the neural network of C. Elegans. Data compiled by D. Watts and S. Strogatz and made available on the web here. Please cite D. J. Watts and S. H. Strogatz, Nature 393, 440-442 (1998). Original experimental data taken from J. G. White, E. Southgate, J. N. Thompson, and S. Brenner, Phil. Trans. R. Soc. London 314, 1-340 (1986). 
 p tdp 297 2148
 1 2

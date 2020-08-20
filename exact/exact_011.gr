@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: ginsim.org/models_repository 
+c ORIGIN: http://ginsim.org/models_repository 
 c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the nine key signalling pathways detected in Drosophila and recurrently used in metazoan development. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E 
 p tdp 23 24
 1 2

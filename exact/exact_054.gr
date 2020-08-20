@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: ginsim.org/models_repository 
+c ORIGIN: http://ginsim.org/models_repository 
 c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains a molecular map for the FceRI and FcgRIIb signalling pathways, which play a key role in mast cell activation in mammals. Reference: Niarakis, A., Bounab, Y., Grieco, L., Roncagalli, R., Hesse, A., Garin, J\'er\^ome, Malissen, B., … (2014). Computational modeling of the main signaling pathways involved in mast cell activation. In M. Daeron, & F. Nimmerjahn (Eds.), Fc Receptors (pp. 69–93). Cham: Springer International Publishing. 
 p tdp 47 67
 24 30

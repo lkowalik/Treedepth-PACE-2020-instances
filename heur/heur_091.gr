@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: infrastracture 
-c ORIGIN: networkrepository.com 
+c ORIGIN: http://networkrepository.com/ 
 c DESCRIPTION: a flight network 
 p tdp 2940 15688
 15 2220

@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: ginsim.org/models_repository 
+c ORIGIN: http://ginsim.org/models_repository 
 c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes related to the segment polarity genes engrailed and wingless in fly embryos. S\'anchez, Lucas, Chaouiya, C., & Thieffry, D. (2002). Segmenting the fly embryo: logical analysis of the role of the segment polarity cross-regulatory module. International Journal of Developmental Biology, 52(8), 1059–1075. http://dx.doi.org/10.1387/ijdb.072439ls 
 p tdp 72 158
 5 31

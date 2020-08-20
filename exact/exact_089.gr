@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: www-personal.umich.edu/~mejn/netdata/ 
+c ORIGIN: http://www-personal.umich.edu/~mejn/netdata/ 
 c DESCRIPTION: Les Miserables: coappearance network of characters in the novel Les Miserables. Please cite D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993). 
 p tdp 77 254
 1 2

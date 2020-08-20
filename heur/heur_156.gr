@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a biological function network that classifies biological functions into a hierarchy. The hierarchy is specified by Gene Ontology that describes biological functions and relationships between them. Biological functions capture biological processes (i.e., pathways and larger processes made up of the activities of multiple gene products), cellular components (i.e., components/organelles where gene products are active), and molecular functions (i.e., molecular activities of gene products).  The information is extracted from Gene Ontology, which defines the universe of concepts relating to biological functions, and how these functions are related to each other. References: Gene Ontology: tool for the unification of biology. Ashburner, Michael, et al. Nature Genetics. 2000. 
 p tdp 46028 106520
 4486 5363

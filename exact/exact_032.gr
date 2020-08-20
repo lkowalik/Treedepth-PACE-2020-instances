@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: www-personal.umich.edu/~mejn/netdata/ 
+c ORIGIN: http://www-personal.umich.edu/~mejn/netdata/ 
 c DESCRIPTION: Zachary's karate club: social network of friendships between 34 members of a karate club at a US university in the 1970s. Please cite W. W. Zachary, An information flow model for conflict and fission in small groups, Journal of Anthropological Research 33, 452-473 (1977). 
 p tdp 34 78
 1 32

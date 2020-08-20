@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: named 
-c ORIGIN: github.com/freetdi/named-graphs 
+c ORIGIN: https://github.com/freetdi/named-graphs 
 c DESCRIPTION: A 20x40 grid graph 
 p tdp 800 1540
 1 2

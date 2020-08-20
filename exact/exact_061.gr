@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: ginsim.org/models_repository 
+c ORIGIN: http://ginsim.org/models_repository 
 c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the most crucial components of the Mitogen-Activated Protein Kinase (MAPK) network in bladder cancer cells. Reference: Grieco, L., Calzone, L., Bernard-Pierrot, Isabelle, Radvanyi, Fran\c cois, Kahn-Perl\`es, Brigitte, & Thieffry, D. (2013). Integrative modelling of the influence of mapk network on cancer cell fate decision. PLOS Computational Biology, 9(10), 1003286. http://dx.doi.org/10.1371/journal.pcbi.1003286 
 p tdp 53 100
 15 27

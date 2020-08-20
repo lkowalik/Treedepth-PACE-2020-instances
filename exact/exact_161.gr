@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: named 
-c ORIGIN: github.com/freetdi/named-graphs 
+c ORIGIN: https://github.com/freetdi/named-graphs 
 c DESCRIPTION: Graph of all the countries, in which two countries are adjacent in the graph if they have a common boundary. From sage’s WorldMath() function. 
 p tdp 167 328
 46 113

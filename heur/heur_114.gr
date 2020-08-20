@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a drug-target interaction network that contains information on which genes (i.e., proteins encoded by genes) are targeted by drugs that are on the U.S. market. Drug targets are molecules that play a critical role in the transport, delivery or activation of the drug. Drug target information is widely used to facilitate computational drug target discovery, drug design, drug docking or screening, drug metabolism prediction, drug interaction prediction, and general pharmaceutical research. Drug target information includes biotech drugs and nutraceuticals (these drugs on average have 5-10 unique target proteins), lists all targets that have been found to have physiological or pharmaceutical effects (not only a single primary target), and fully accounts for the fact that many drug targets are protein complexes composed of multiple subunits or combinations of proteins.  References: DrugBank 5.0: a major update to the DrugBank database for 2018. Wishart, David S., et al. Nucleic Acids Research. 2017. 
 p tdp 7342 15343
 1781 2009

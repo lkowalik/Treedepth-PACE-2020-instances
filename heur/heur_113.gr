@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a disease-drug association network that contains information on drug-disease relationships. Nodes represent diseases and drugs (also including certain chemicals that are not human drugs), and edges represent associations between them. Examples of associations include interactions between arsenic and different diseases, including prostatic neoplasms, skin diseases, and myocardial ischemia. Disease-drug associations are useful to understand mechanisms by which drugs treat diseases and to develop hypotheses about mechanisms underlying environmental diseases. The information is extracted from a database of curated and inferred chemical-disease asssociations. Curated chemical-disease associations are extracted from published literature by biocurators. Inferred associations are established via curated chemical-gene interactions (e.g., chemical A is associated with disease B because chemical A has a curated interaction with gene C, and gene C has a curated association with disease B). Citation: The Comparative Toxicogenomics Database: update 2017. Davis, Allan Peter, et al. Nucleic Acids Research. 2016. 
 p tdp 7197 466656
 1 2

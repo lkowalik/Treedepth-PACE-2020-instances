@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: named 
-c ORIGIN: github.com/freetdi/named-graphs 
+c ORIGIN: https://github.com/freetdi/named-graphs 
 c DESCRIPTION: Graph NU(m=3,q=3): The graph on nonisotropic, with respect to a nondegenerate Hermitean form, points of the (m−1)-dimensional projective space over F_q, with points adjacent whenever they lie on a tangent (to the set of isotropic points) line. 
 p tdp 63 1008
 1 2

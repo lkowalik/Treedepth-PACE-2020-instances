@@ -1,7 +1,7 @@
 ## [exact_001.gr](exact/exact_001.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-10 | 15 | 0.1 | named | github.com/freetdi/named-graphs | PetersenGraph.gr | 
+10 | 15 | 0.1 | named | https://github.com/freetdi/named-graphs | PetersenGraph.gr | 
 
 **Description:** Petersen graph
 
@@ -9,7 +9,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_002.gr](exact/exact_002.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-16 | 58 | 0.3 | social | networkrepository.com | soc-tribes.gr | 
+16 | 58 | 0.3 | social | http://networkrepository.com/ | soc-tribes.gr | 
 
 **Description:** Tribes is social network of tribes of the Gahuku–Gama alliance structure of the Eastern Central Highlands of New Guinea, from Kenneth Read (1954). The dataset contains a list of all of links, where a link represents signed friendships between tribes.
 
@@ -17,7 +17,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_003.gr](exact/exact_003.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-17 | 62 | 0.3 | biology | ginsim.org/models_repository | MAPK_red1_19062013.gr | 
+17 | 62 | 0.3 | biology | http://ginsim.org/models_repository | MAPK_red1_19062013.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the most crucial components of the Mitogen-Activated Protein Kinase (MAPK) network in bladder cancer cells. Reference: Grieco, L., Calzone, L., Bernard-Pierrot, Isabelle, Radvanyi, Fran\c cois, Kahn-Perl\`es, Brigitte, & Thieffry, D. (2013). Integrative modelling of the influence of mapk network on cancer cell fate decision. PLOS Computational Biology, 9(10), 1003286. http://dx.doi.org/10.1371/journal.pcbi.1003286
 
@@ -25,7 +25,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_004.gr](exact/exact_004.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-18 | 18 | 0.1 | biology | ginsim.org/models_repository | VEGF_Pathway_12Jun2013_0.gr | 
+18 | 18 | 0.1 | biology | http://ginsim.org/models_repository | VEGF_Pathway_12Jun2013_0.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the Drosophila VEGF signalling pathway. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E
 
@@ -41,7 +41,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_006.gr](exact/exact_006.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-20 | 24 | 0.1 | computer science | github.com/freetdi/CFGs | contiki_mac_mac_call_sent_callback.gr | 
+20 | 24 | 0.1 | computer science | https://github.com/freetdi/CFGs | contiki_mac_mac_call_sent_callback.gr | 
 
 **Description:** A control-flow graph of a C function
 
@@ -49,7 +49,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_007.gr](exact/exact_007.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-20 | 30 | 0.2 | named | github.com/freetdi/named-graphs | FlowerSnark.gr | 
+20 | 30 | 0.2 | named | https://github.com/freetdi/named-graphs | FlowerSnark.gr | 
 
 **Description:** A flower snark J_5, see https://en.wikipedia.org/wiki/Flower_snark
 
@@ -73,7 +73,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_010.gr](exact/exact_010.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-21 | 72 | 0.6 | social | networkrepository.com | mammalia-vampire-bats-foodsharing.gr | 
+21 | 72 | 0.6 | social | http://networkrepository.com/ | mammalia-vampire-bats-foodsharing.gr | 
 
 **Description:** an animal social network
 
@@ -81,7 +81,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_011.gr](exact/exact_011.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-23 | 24 | 0.1 | biology | ginsim.org/models_repository | FGF_Pathway_12Jun2013.gr | 
+23 | 24 | 0.1 | biology | http://ginsim.org/models_repository | FGF_Pathway_12Jun2013.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the nine key signalling pathways detected in Drosophila and recurrently used in metazoan development. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E
 
@@ -97,7 +97,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_013.gr](exact/exact_013.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-25 | 46 | 0.4 | biology | networkrepository.com | ENZYMES_g172.gr | 
+25 | 46 | 0.4 | biology | http://networkrepository.com/ | ENZYMES_g172.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2006
 
@@ -113,7 +113,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_015.gr](exact/exact_015.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-26 | 30 | 0.2 | biology | ginsim.org/models_repository | Wg_Pathway_11Jun2013.gr | 
+26 | 30 | 0.2 | biology | http://ginsim.org/models_repository | Wg_Pathway_11Jun2013.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the Drosophila Wg signalling pathway. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E
 
@@ -121,7 +121,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_016.gr](exact/exact_016.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-26 | 51 | 0.5 | biology | networkrepository.com | ENZYMES_g391.gr | 
+26 | 51 | 0.5 | biology | http://networkrepository.com/ | ENZYMES_g391.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2011
 
@@ -129,7 +129,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_017.gr](exact/exact_017.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-26 | 64 | 0.3 | biology | ginsim.org/models_repository | ModelT2DM_0.gr | 
+26 | 64 | 0.3 | biology | http://ginsim.org/models_repository | ModelT2DM_0.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This is a network of the signaling pathways that control S-phase entry and a specific type of senescence called geroconversion. Reference: Verlingue, L., Dugourd, Aur\'elien, Stoll, G., Barillot, E., Calzone, L., & Londo\~no-Vallejo, Arturo (2016). A comprehensive approach to the molecular determinants of lifespan using a boolean model of geroconversion. Aging Cell, 15(6), 1018–1026. http://dx.doi.org/10.1111/acel.12504
 
@@ -137,7 +137,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_018.gr](exact/exact_018.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-27 | 87 | 0.4 | biology | ginsim.org/models_repository | core_engine_budding_yeast_CC.gr | 
+27 | 87 | 0.4 | biology | http://ginsim.org/models_repository | core_engine_budding_yeast_CC.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the main documented interactions in budding yeast between core regulators of the cell cycle (Cdk/cyclins, APC, Cdk inhibitors). Reference: Faur\'e, Adrien, Naldi, Aur\'elien, Lopez, F., Chaouiya, C., Ciliberto, A., & Thieffry, D. (2009). Modular logical modelling of the budding yeast cell cycle. Molecular BioSystems, 5(12), 1787–1796. http://dx.doi.org/10.1039/B910101M
 
@@ -145,7 +145,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_019.gr](exact/exact_019.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-28 | 57 | 0.3 | biology | ginsim.org/models_repository | ap_boundary.gr | 
+28 | 57 | 0.3 | biology | http://ginsim.org/models_repository | ap_boundary.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the genes of the hedgehog signalling pathway of Drosophila melanogaster. Reference: Gonz\'alez, Aitor, Chaouiya, C., & Thieffry, D. (2008). Logical modelling of the role of the hh pathway in the patterning of the drosophila wing disc. Bioinformatics, 24(16), 234–240. http://dx.doi.org/10.1093/bioinformatics/btn266
 
@@ -153,7 +153,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_020.gr](exact/exact_020.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-28 | 168 | 0.9 | named | github.com/freetdi/named-graphs | JohnsonGraph_8_2.gr | 
+28 | 168 | 0.9 | named | https://github.com/freetdi/named-graphs | JohnsonGraph_8_2.gr | 
 
 **Description:** Johnson J(8,2) graph, see https://en.wikipedia.org/wiki/Johnson_graph
 
@@ -161,7 +161,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_021.gr](exact/exact_021.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-29 | 38 | 0.2 | computer science | github.com/freetdi/CFGs | fuzix_pathconf__pathconf.gr | 
+29 | 38 | 0.2 | computer science | https://github.com/freetdi/CFGs | fuzix_pathconf__pathconf.gr | 
 
 **Description:** A control-flow graph of a C function
 
@@ -169,7 +169,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_022.gr](exact/exact_022.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-29 | 47 | 0.3 | biology | www.genome.jp/kegg/ | myb05169.kgml.gr-5.gr | 
+29 | 47 | 0.3 | biology | http://www.genome.jp/kegg/ | myb05169.kgml.gr-5.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "myb05160 Hepatitis C - Myotis brandtii (Brandt's bat)".
 
@@ -193,7 +193,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_025.gr](exact/exact_025.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-30 | 51 | 0.5 | biology | networkrepository.com | ENZYMES_g378.gr | 
+30 | 51 | 0.5 | biology | http://networkrepository.com/ | ENZYMES_g378.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2010
 
@@ -209,7 +209,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_027.gr](exact/exact_027.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-30 | 70 | 0.4 | biology | ginsim.org/models_repository | Bladder_Model.gr | 
+30 | 70 | 0.4 | biology | http://ginsim.org/models_repository | Bladder_Model.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains human genes involved in tumorigenesis of bladder cells. Reference: Remy, E., Rebouissou, S., Chaouiya, C., Zinovyev, A., Radvanyi, Fran\c cois, & Calzone, L. (2015). A modeling approach to explain mutually exclusive and co-occurring genetic alterations in bladder tumorigenesis. Cancer Research, 75(19), 4042–4052. http://dx.doi.org/10.1158/0008-5472.CAN-15-0602
 
@@ -217,7 +217,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_028.gr](exact/exact_028.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-31 | 64 | 0.5 | biology | networkrepository.com | ENZYMES_g554.gr | 
+31 | 64 | 0.5 | biology | http://networkrepository.com/ | ENZYMES_g554.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2017
 
@@ -225,7 +225,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_029.gr](exact/exact_029.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-32 | 119 | 0.8 | social | networkrepository.com | aves-weaver-social-13.gr | 
+32 | 119 | 0.8 | social | http://networkrepository.com/ | aves-weaver-social-13.gr | 
 
 **Description:** an animal social network. A network edge was drawn between individuals that used the same nest chambers either for roosting or nest-building at any given time within a series of observations at the same colony in the same year, either together in the nest chamber at the same time or at different times. Networks represent social data collected from 23 colonies of sociable weavers. From: van Dijk, Rene E., et al., "Cooperative investment in public goods is kin directed in communal nests of social birds." Ecology letters 17.9 (2014): 1141-1148.
 
@@ -233,7 +233,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_030.gr](exact/exact_030.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-32 | 137 | 0.8 | biology | ginsim.org/models_repository | SuppMat_Model_Master_Model.gr | 
+32 | 137 | 0.8 | biology | http://ginsim.org/models_repository | SuppMat_Model_Master_Model.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes in the molecular pathways enabling tumour cell invasion and migration. Reference: Cohen, D. P. A., Martignetti, L., Robine, S., Barillot, E., Zinovyev, A., & Calzone, L. (2015). Mathematical modelling of molecular pathways enabling tumour cell invasion and migration. PLOS Computational Biology, 11(11), 1004571. http://dx.doi.org/10.1371/journal.pcbi.1004571
 
@@ -241,7 +241,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_031.gr](exact/exact_031.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-33 | 78 | 0.4 | biology | ginsim.org/models_repository | Collombet_model_Bcell_Macrophages_PNAS_170215.gr | 
+33 | 78 | 0.4 | biology | http://ginsim.org/models_repository | Collombet_model_Bcell_Macrophages_PNAS_170215.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in macrophage differentiation. Reference: Collombet, S., van Oevelen, C., Ortega, J. L. S., Abou-Jaoud\'e, Wassim, Stefano, B. D., Thomas-Chollier, Morgane, Graf, T., … (2017). Logical modeling of lymphoid and myeloid cell specification and transdifferentiation. Proceedings of the National Academy of Sciences, 114(23), 5792–5799. http://dx.doi.org/10.1073/pnas.1610622114
 
@@ -249,7 +249,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_032.gr](exact/exact_032.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-34 | 78 | 0.8 | social | www-personal.umich.edu/~mejn/netdata/ | karate_34.gr | 
+34 | 78 | 0.8 | social | http://www-personal.umich.edu/~mejn/netdata/ | karate_34.gr | 
 
 **Description:** Zachary's karate club: social network of friendships between 34 members of a karate club at a US university in the 1970s. Please cite W. W. Zachary, An information flow model for conflict and fission in small groups, Journal of Anthropological Research 33, 452-473 (1977).
 
@@ -257,7 +257,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_033.gr](exact/exact_033.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-34 | 82 | 0.4 | biology | ginsim.org/models_repository | Th_differentiation_reduced_model.gr | 
+34 | 82 | 0.4 | biology | http://ginsim.org/models_repository | Th_differentiation_reduced_model.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in control of Th1/Th2/Th17/Treg cells differentiation. Reference: Naldi A, Carneiro J, Chaouiya C, Thieffry D (2010). Diversity and plasticity of th cell types predicted from regulatory network modelling. PLOS Computational Biology, 6(9), 1000912. http://dx.doi.org/10.1371/journal.pcbi.1000912
 
@@ -265,7 +265,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_034.gr](exact/exact_034.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-35 | 42 | 0.2 | computer science | github.com/freetdi/CFGs | contiki_shell-base64_base64_decode_char.gr | 
+35 | 42 | 0.2 | computer science | https://github.com/freetdi/CFGs | contiki_shell-base64_base64_decode_char.gr | 
 
 **Description:** A control-flow graph of a C function
 
@@ -273,7 +273,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_035.gr](exact/exact_035.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-35 | 70 | 0.6 | biology | networkrepository.com | ENZYMES_g109.gr | 
+35 | 70 | 0.6 | biology | http://networkrepository.com/ | ENZYMES_g109.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2004
 
@@ -281,7 +281,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_036.gr](exact/exact_036.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-37 | 68 | 0.6 | biology | networkrepository.com | ENZYMES_g427.gr | 
+37 | 68 | 0.6 | biology | http://networkrepository.com/ | ENZYMES_g427.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2014
 
@@ -289,7 +289,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_037.gr](exact/exact_037.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-39 | 48 | 0.3 | biology | www.genome.jp/kegg/ | sasa04530.kgml.gr-0.gr | 
+39 | 48 | 0.3 | biology | http://www.genome.jp/kegg/ | sasa04530.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "sasa04530 Tight junction - Salmo salar (Atlantic salmon)".
 
@@ -297,7 +297,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_038.gr](exact/exact_038.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-39 | 62 | 0.3 | biology | www.genome.jp/kegg/ | mun00071.kgml.gr-2.gr | 
+39 | 62 | 0.3 | biology | http://www.genome.jp/kegg/ | mun00071.kgml.gr-2.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mun00071 Fatty acid degradation - Meriones unguiculatus (Mongolian gerbil)".
 
@@ -305,7 +305,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_039.gr](exact/exact_039.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-40 | 54 | 0.3 | biology | ginsim.org/models_repository | TCRsig40.gr | 
+40 | 54 | 0.3 | biology | http://ginsim.org/models_repository | TCRsig40.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the TCR signalling pathway. Reference: Klamt, S., Saez-Rodriguez, Julio, Lindquist, J. A., Simeoni, L., & Gilles, E. D. (2006). A methodology for the structural and functional analysis of signaling and regulatory networks. BMC Bioinformatics, 7(1), 1–26. http://dx.doi.org/10.1186/1471-2105-7-56
 
@@ -313,7 +313,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_040.gr](exact/exact_040.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-40 | 73 | 0.6 | biology | networkrepository.com | ENZYMES_g274.gr | 
+40 | 73 | 0.6 | biology | http://networkrepository.com/ | ENZYMES_g274.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2008
 
@@ -337,7 +337,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_043.gr](exact/exact_043.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-40 | 129 | 0.7 | biology | ginsim.org/models_repository | TCR-REDOX-METABOLISM_2019-07-26_reduced_0.gr | 
+40 | 129 | 0.7 | biology | http://ginsim.org/models_repository | TCR-REDOX-METABOLISM_2019-07-26_reduced_0.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network captures the interplay between antigen recognition with reactive oxygen species and metabolic status in T cell responses. S\'anchez-Villanueva, Jos\'e Antonio, Rodr\'iguez-Jorge, Otoniel, Ram\'irez-Pliego, Oscar, Salgado, G. R., Abou-Jaoud\'e, Wassim,Hernandez, C\'eline, Naldi, Aur\'elien, … (2019). Contribution of ros and metabolic status to neonatal and adult cd8+ t cell activation. PLOS ONE, 14(12), 0226388. http://dx.doi.org/10.1371/journal.pone.0226388
 
@@ -361,7 +361,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_046.gr](exact/exact_046.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-41 | 76 | 0.6 | biology | networkrepository.com | ENZYMES_g418.gr | 
+41 | 76 | 0.6 | biology | http://networkrepository.com/ | ENZYMES_g418.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2013
 
@@ -369,7 +369,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_047.gr](exact/exact_047.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-41 | 256 | 1.6 | social | networkrepository.com | insecta-ant-trophallaxis-colony1.gr | 
+41 | 256 | 1.6 | social | http://networkrepository.com/ | insecta-ant-trophallaxis-colony1.gr | 
 
 **Description:** an animal social network. A trophallaxis event was recorded when ants engaged in mandible-to-mandible contact for greater than 1 s. Networks represent two C. pennsylvanicus colonies. Each colony was filmed for approximately 30 minutes for 8 consecutive nights. Citation: Quevillon, Lauren E., et al. "Social, spatial, and temporal organization in a complex insect society." Scientific reports 5 (2015).
 
@@ -377,7 +377,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_048.gr](exact/exact_048.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-42 | 67 | 0.4 | named | github.com/freetdi/named-graphs | WienerArayaGraph.gr | 
+42 | 67 | 0.4 | named | https://github.com/freetdi/named-graphs | WienerArayaGraph.gr | 
 
 **Description:** Wiener-Araya graph, see https://en.wikipedia.org/wiki/Wiener%E2%80%93Araya_graph
 
@@ -385,7 +385,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_049.gr](exact/exact_049.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-42 | 73 | 0.4 | biology | ginsim.org/models_repository | RodriguezJorge_TLR5_Signalling_BooleanModel_17Jul2018.gr | 
+42 | 73 | 0.4 | biology | http://ginsim.org/models_repository | RodriguezJorge_TLR5_Signalling_BooleanModel_17Jul2018.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 
@@ -393,7 +393,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_050.gr](exact/exact_050.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-43 | 53 | 0.3 | computer science | github.com/freetdi/CFGs | fuzix_utent_getutid.gr | 
+43 | 53 | 0.3 | computer science | https://github.com/freetdi/CFGs | fuzix_utent_getutid.gr | 
 
 **Description:** A control-flow graph of a C function
 
@@ -401,7 +401,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_051.gr](exact/exact_051.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-45 | 91 | 0.7 | biology | networkrepository.com | ENZYMES_g596.gr | 
+45 | 91 | 0.7 | biology | http://networkrepository.com/ | ENZYMES_g596.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2018
 
@@ -409,7 +409,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_052.gr](exact/exact_052.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-45 | 630 | 3.5 | named | github.com/freetdi/named-graphs | KneserGraph_10_2.gr | 
+45 | 630 | 3.5 | named | https://github.com/freetdi/named-graphs | KneserGraph_10_2.gr | 
 
 **Description:** Kneser graph KG(10,2), see https://en.wikipedia.org/wiki/Kneser_graph
 
@@ -417,7 +417,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_053.gr](exact/exact_053.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-46 | 63 | 0.3 | biology | www.genome.jp/kegg/ | mun04621.kgml.gr-0.gr | 
+46 | 63 | 0.3 | biology | http://www.genome.jp/kegg/ | mun04621.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mun04621 NOD-like receptor signaling pathway - Meriones unguiculatus (Mongolian gerbil)".
 
@@ -425,7 +425,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_054.gr](exact/exact_054.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-47 | 67 | 0.4 | biology | ginsim.org/models_repository | Mast_cell_activation_Annotated_19oct2014.gr | 
+47 | 67 | 0.4 | biology | http://ginsim.org/models_repository | Mast_cell_activation_Annotated_19oct2014.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains a molecular map for the FceRI and FcgRIIb signalling pathways, which play a key role in mast cell activation in mammals. Reference: Niarakis, A., Bounab, Y., Grieco, L., Roncagalli, R., Hesse, A., Garin, J\'er\^ome, Malissen, B., … (2014). Computational modeling of the main signaling pathways involved in mast cell activation. In M. Daeron, & F. Nimmerjahn (Eds.), Fc Receptors (pp. 69–93). Cham: Springer International Publishing.
 
@@ -433,7 +433,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_055.gr](exact/exact_055.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-49 | 85 | 0.5 | social | sites.google.com/site/ucinetsoftware/datasets | COCAINE_JUANES.gr | 
+49 | 85 | 0.5 | social | https://sites.google.com/site/ucinetsoftware/datasets | COCAINE_JUANES.gr | 
 
 **Description:** A covert network. Operation JUANES (N=51). In 2009, the police investigation detected a group involved in the smuggling of cocaine from Mexico to be distributed in Madrid (Spain). In this case, the group operated in close cooperation with another organization that was laundering the illegal income from drug distribution from this and other groups. The cocaine traffickers earned an estimated EUR 60 million.
 
@@ -441,7 +441,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_056.gr](exact/exact_056.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-50 | 59 | 0.3 | biology | www.genome.jp/kegg/ | fpg00140.kgml.gr-4.gr | 
+50 | 59 | 0.3 | biology | http://www.genome.jp/kegg/ | fpg00140.kgml.gr-4.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "fpg00140 Steroid hormone biosynthesis - Falco peregrinus (peregrine falcon)".
 
@@ -457,7 +457,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_058.gr](exact/exact_058.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-50 | 98 | 0.7 | biology | networkrepository.com | ENZYMES_g395.gr | 
+50 | 98 | 0.7 | biology | http://networkrepository.com/ | ENZYMES_g395.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2012
 
@@ -465,7 +465,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_059.gr](exact/exact_059.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-50 | 525 | 2.9 | named | github.com/freetdi/named-graphs | SwitchedSquaredSkewHadamardMatrixGraph_2.gr | 
+50 | 525 | 2.9 | named | https://github.com/freetdi/named-graphs | SwitchedSquaredSkewHadamardMatrixGraph_2.gr | 
 
 **Description:** The result of SwitchedSquaredSkewHadamardMatrixGraph(5) in sage.
 
@@ -481,7 +481,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_061.gr](exact/exact_061.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-53 | 100 | 0.6 | biology | ginsim.org/models_repository | MAPK_large_19june2013.gr | 
+53 | 100 | 0.6 | biology | http://ginsim.org/models_repository | MAPK_large_19june2013.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the most crucial components of the Mitogen-Activated Protein Kinase (MAPK) network in bladder cancer cells. Reference: Grieco, L., Calzone, L., Bernard-Pierrot, Isabelle, Radvanyi, Fran\c cois, Kahn-Perl\`es, Brigitte, & Thieffry, D. (2013). Integrative modelling of the influence of mapk network on cancer cell fate decision. PLOS Computational Biology, 9(10), 1003286. http://dx.doi.org/10.1371/journal.pcbi.1003286
 
@@ -497,7 +497,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_063.gr](exact/exact_063.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-55 | 100 | 0.8 | biology | networkrepository.com | ENZYMES_g598.gr | 
+55 | 100 | 0.8 | biology | http://networkrepository.com/ | ENZYMES_g598.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2019
 
@@ -505,7 +505,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_064.gr](exact/exact_064.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-57 | 79 | 0.6 | biology | networkrepository.com | ENZYMES_g541.gr | 
+57 | 79 | 0.6 | biology | http://networkrepository.com/ | ENZYMES_g541.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2016
 
@@ -521,7 +521,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_066.gr](exact/exact_066.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-59 | 154 | 0.9 | biology | www.genome.jp/kegg/ | myi00240.kgml.gr-0.gr | 
+59 | 154 | 0.9 | biology | http://www.genome.jp/kegg/ | myi00240.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "myi00240 Pyrimidine metabolism - Mizuhopecten yessoensis (Yesso scallop)".
 
@@ -553,7 +553,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_070.gr](exact/exact_070.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-60 | 176 | 1.0 | biology | ginsim.org/models_repository | T_LGL.gr | 
+60 | 176 | 1.0 | biology | http://ginsim.org/models_repository | T_LGL.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in survival signaling in large granular lymphocyte leukemia. Reference: Zhang, R., Shah, M. V., Yang, J., Nyland, S. B., Liu, X., Yun, J. K., Albert, R\'eka, … (2008). Network model of survival signaling in large granular lymphocyte leukemia. Proceedings of the National Academy of Sciences, 105(42), 16308–16313.
 
@@ -561,7 +561,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_071.gr](exact/exact_071.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-61 | 151 | 0.8 | biology | www.genome.jp/kegg/ | ray00061.kgml.gr-0.gr | 
+61 | 151 | 0.8 | biology | http://www.genome.jp/kegg/ | ray00061.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ray00051 Fructose and mannose metabolism - Rousettus aegyptiacus (Egyptian rousette)".
 
@@ -569,7 +569,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_072.gr](exact/exact_072.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-62 | 108 | 0.8 | biology | networkrepository.com | ENZYMES_g199.gr | 
+62 | 108 | 0.8 | biology | http://networkrepository.com/ | ENZYMES_g199.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2007
 
@@ -577,7 +577,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_073.gr](exact/exact_073.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-62 | 159 | 1.7 | social | www-personal.umich.edu/~mejn/netdata/ | dolphins_62.gr | 
+62 | 159 | 1.7 | social | http://www-personal.umich.edu/~mejn/netdata/ | dolphins_62.gr | 
 
 **Description:** Dolphin social network: an undirected social network of frequent associations between 62 dolphins in a community living off Doubtful Sound, New Zealand. Please cite D. Lusseau, K. Schneider, O. J. Boisseau, P. Haase, E. Slooten, and S. M. Dawson, Behavioral Ecology and Sociobiology 54, 396-405 (2003). Thanks to David Lusseau for permission to post these data on this web site.
 
@@ -585,7 +585,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_074.gr](exact/exact_074.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-63 | 1008 | 5.6 | named | github.com/freetdi/named-graphs | NonisotropicUnitaryPolarGraph_3_3.gr | 
+63 | 1008 | 5.6 | named | https://github.com/freetdi/named-graphs | NonisotropicUnitaryPolarGraph_3_3.gr | 
 
 **Description:** Graph NU(m=3,q=3): The graph on nonisotropic, with respect to a nondegenerate Hermitean form, points of the (m−1)-dimensional projective space over F_q, with points adjacent whenever they lie on a tangent (to the set of isotropic points) line.
 
@@ -593,7 +593,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_075.gr](exact/exact_075.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-64 | 168 | 1.0 | named | github.com/freetdi/named-graphs | HanoiTowerGraph_4_3.gr | 
+64 | 168 | 1.0 | named | https://github.com/freetdi/named-graphs | HanoiTowerGraph_4_3.gr | 
 
 **Description:** Hanoi Tower Graph for 3 disks and 4 towers
 
@@ -601,7 +601,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_076.gr](exact/exact_076.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-65 | 128 | 0.7 | biology | ginsim.org/models_repository | Th_differentiation_full_annotated_model.gr | 
+65 | 128 | 0.7 | biology | http://ginsim.org/models_repository | Th_differentiation_full_annotated_model.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in control of Th1/Th2/Th17/Treg cells differentiation. Reference: Naldi A, Carneiro J, Chaouiya C, Thieffry D (2010). Diversity and plasticity of th cell types predicted from regulatory network modelling. PLOS Computational Biology, 6(9), 1000912. http://dx.doi.org/10.1371/journal.pcbi.1000912
 
@@ -609,7 +609,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_077.gr](exact/exact_077.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-66 | 120 | 0.9 | biology | networkrepository.com | ENZYMES_g504.gr | 
+66 | 120 | 0.9 | biology | http://networkrepository.com/ | ENZYMES_g504.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2015
 
@@ -633,7 +633,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_080.gr](exact/exact_080.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-68 | 116 | 0.7 | social | sites.google.com/site/ucinetsoftware/datasets | ITALIAN_GANGS.gr | 
+68 | 116 | 0.7 | social | https://sites.google.com/site/ucinetsoftware/datasets | ITALIAN_GANGS.gr | 
 
 **Description:** A covert network: Italian gangs
 
@@ -641,7 +641,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_081.gr](exact/exact_081.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-70 | 79 | 0.4 | biology | www.genome.jp/kegg/ | psq01230.kgml.gr-0.gr | 
+70 | 79 | 0.4 | biology | http://www.genome.jp/kegg/ | psq01230.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "psq01230 Biosynthesis of amino acids - Punctularia strigosozonata".
 
@@ -657,7 +657,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_083.gr](exact/exact_083.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-70 | 274 | 1.5 | social | konect.cc | highschool.gr | 
+70 | 274 | 1.5 | social | http://konect.cc/ | highschool.gr | 
 
 **Description:** This directed network contains friendships between boys in a small highschool in Illinois. Each boy was asked once in the fall of 1957 and the spring of 1958. This dataset aggregates the results from both dates. A node represents a boy and an edge between two boys shows that the left boy chose the right boy as a friend. The edge weights show how often that happened. As a boy could choose the same boy twice edge values from 1 to 2 are allowed.
 
@@ -673,7 +673,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_085.gr](exact/exact_085.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-72 | 158 | 0.9 | biology | ginsim.org/models_repository | SP_6cells.gr | 
+72 | 158 | 0.9 | biology | http://ginsim.org/models_repository | SP_6cells.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes related to the segment polarity genes engrailed and wingless in fly embryos. S\'anchez, Lucas, Chaouiya, C., & Thieffry, D. (2002). Segmenting the fly embryo: logical analysis of the role of the segment polarity cross-regulatory module. International Journal of Developmental Biology, 52(8), 1059–1075. http://dx.doi.org/10.1387/ijdb.072439ls
 
@@ -681,7 +681,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_086.gr](exact/exact_086.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-75 | 118 | 0.6 | biology | thebiogrid.org | Toxoplasma_gondii-Sibley2017.gr | 
+75 | 118 | 0.6 | biology | https://thebiogrid.org/ | Toxoplasma_gondii-Sibley2017.gr | 
 
 **Description:** This is a gene-interaction network of Toxoplasma gondii, the most prevalent parasite in developed countries.
 
@@ -697,7 +697,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_088.gr](exact/exact_088.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-77 | 146 | 0.8 | biology | ginsim.org/models_repository | Flobak_FullModel_S2_Dataset.gr | 
+77 | 146 | 0.8 | biology | http://ginsim.org/models_repository | Flobak_FullModel_S2_Dataset.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network accounts for cell fate decision network in the AGS gastric cancer cell line. Reference: Flobak, \AAsmund, Baudot, Ana\"is, Remy, E., Thommesen, L., Thieffry, D., Kuiper, M., & L\aegreid, Astrid (2015). Discovery of drug synergies in gastric cancer cells predicted by logical modeling. PLOS Computational Biology, 11(8), 1004426. http://dx.doi.org/10.1371/journal.pcbi.1004426
 
@@ -705,7 +705,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_089.gr](exact/exact_089.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-77 | 254 | 2.0 | social | www-personal.umich.edu/~mejn/netdata/ | lesmis_77.gr | 
+77 | 254 | 2.0 | social | http://www-personal.umich.edu/~mejn/netdata/ | lesmis_77.gr | 
 
 **Description:** Les Miserables: coappearance network of characters in the novel Les Miserables. Please cite D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
 
@@ -713,7 +713,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_090.gr](exact/exact_090.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-77 | 616 | 3.5 | named | github.com/freetdi/named-graphs | M22Graph.gr | 
+77 | 616 | 3.5 | named | https://github.com/freetdi/named-graphs | M22Graph.gr | 
 
 **Description:** M22 graph, see https://en.wikipedia.org/wiki/M22_graph
 
@@ -745,7 +745,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_094.gr](exact/exact_094.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-81 | 810 | 4.6 | named | github.com/freetdi/named-graphs | BrouwerHaemersGraph.gr | 
+81 | 810 | 4.6 | named | https://github.com/freetdi/named-graphs | BrouwerHaemersGraph.gr | 
 
 **Description:** Brouwer-Haemers graph, see https://en.wikipedia.org/wiki/Brouwer%E2%80%93Haemers_graph
 
@@ -753,7 +753,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_095.gr](exact/exact_095.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-82 | 100 | 0.6 | computer science | github.com/freetdi/CFGs | fuzix_devtty_keydecode.gr | 
+82 | 100 | 0.6 | computer science | https://github.com/freetdi/CFGs | fuzix_devtty_keydecode.gr | 
 
 **Description:** A control-flow graph of a C function
 
@@ -761,7 +761,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_096.gr](exact/exact_096.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-84 | 339 | 1.9 | biology | www.genome.jp/kegg/ | ncc00230.kgml.gr-1.gr | 
+84 | 339 | 1.9 | biology | http://www.genome.jp/kegg/ | ncc00230.kgml.gr-1.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ncc00230 Purine metabolism - Notothenia coriiceps (black rockcod)".
 
@@ -769,7 +769,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_097.gr](exact/exact_097.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-86 | 123 | 0.7 | social | networkrepository.com | ca-sandi_auths.gr | 
+86 | 123 | 0.7 | social | http://networkrepository.com/ | ca-sandi_auths.gr | 
 
 **Description:** A collaboration network
 
@@ -785,7 +785,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_099.gr](exact/exact_099.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-88 | 133 | 1.0 | biology | networkrepository.com | ENZYMES_g8.gr | 
+88 | 133 | 1.0 | biology | http://networkrepository.com/ | ENZYMES_g8.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2020
 
@@ -801,7 +801,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_101.gr](exact/exact_101.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-90 | 135 | 0.8 | named | github.com/freetdi/named-graphs | FosterGraph.gr | 
+90 | 135 | 0.8 | named | https://github.com/freetdi/named-graphs | FosterGraph.gr | 
 
 **Description:** Foster graph, see https://en.wikipedia.org/wiki/Foster_graph
 
@@ -849,7 +849,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_107.gr](exact/exact_107.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-95 | 121 | 0.9 | biology | networkrepository.com | ENZYMES_g118.gr | 
+95 | 121 | 0.9 | biology | http://networkrepository.com/ | ENZYMES_g118.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2005
 
@@ -881,7 +881,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_111.gr](exact/exact_111.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-100 | 384 | 2.3 | biology | www.genome.jp/kegg/ | onl00230.kgml.gr-0.gr | 
+100 | 384 | 2.3 | biology | http://www.genome.jp/kegg/ | onl00230.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "onl00230 Purine metabolism - Oreochromis niloticus (Nile tilapia)".
 
@@ -889,7 +889,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_112.gr](exact/exact_112.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-100 | 1800 | 10.3 | named | github.com/freetdi/named-graphs | HallJankoGraph.gr | 
+100 | 1800 | 10.3 | named | https://github.com/freetdi/named-graphs | HallJankoGraph.gr | 
 
 **Description:** Hall-Janko graph, see https://en.wikipedia.org/wiki/Hall%E2%80%93Janko_graph
 
@@ -897,7 +897,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_113.gr](exact/exact_113.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-102 | 113 | 0.6 | biology | www.genome.jp/kegg/ | rbb04024.kgml.gr-0.gr | 
+102 | 113 | 0.6 | biology | http://www.genome.jp/kegg/ | rbb04024.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "rbb04024 cAMP signaling pathway - Rhinopithecus bieti (black snub-nosed monkey)".
 
@@ -905,7 +905,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_114.gr](exact/exact_114.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-102 | 142 | 0.8 | biology | www.genome.jp/kegg/ | nni04010.kgml.gr-0.gr | 
+102 | 142 | 0.8 | biology | http://www.genome.jp/kegg/ | nni04010.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "nni04010 MAPK signaling pathway - Nipponia nippon (crested ibis)".
 
@@ -929,7 +929,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_117.gr](exact/exact_117.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-105 | 441 | 3.2 | social | www-personal.umich.edu/~mejn/netdata/ | polbooks_105.gr | 
+105 | 441 | 3.2 | social | http://www-personal.umich.edu/~mejn/netdata/ | polbooks_105.gr | 
 
 **Description:** Books about US politics: A network of books about US politics published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com. Edges between books represent frequent copurchasing of books by the same buyers. The network was compiled by V. Krebs and is unpublished, but can found on Krebs' web site. Thanks to Valdis Krebs for permission to post these data on this web site.
 
@@ -945,7 +945,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_119.gr](exact/exact_119.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-110 | 223 | 1.3 | biology | ginsim.org/models_repository | RodriguezJorge_TCR_Signalling_BooleanModel_17Jul2018.gr | 
+110 | 223 | 1.3 | biology | http://ginsim.org/models_repository | RodriguezJorge_TCR_Signalling_BooleanModel_17Jul2018.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 
@@ -953,7 +953,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_120.gr](exact/exact_120.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-111 | 1029 | 6.0 | social | networkrepository.com | aves-songbird-social.gr | 
+111 | 1029 | 6.0 | social | http://networkrepository.com/ | aves-songbird-social.gr | 
 
 **Description:** an animal social network. A machine learning algorithm was applied to identify clusters of detections on feeders. Next, the network was generated based on patterns of co-occurrence by individuals in the same feeding events. Asociations between birds were defined using the simple ratio index. From: Adelman, James S., et al. "Feeder use predicts both acquisition and transmission of a contagious pathogen in a North American songbird." Proc. R. Soc. B. Vol. 282. No. 1815. The Royal Society, 2015.
 
@@ -961,7 +961,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_121.gr](exact/exact_121.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-112 | 168 | 1.0 | named | github.com/freetdi/named-graphs | Balaban11Cage.gr | 
+112 | 168 | 1.0 | named | https://github.com/freetdi/named-graphs | Balaban11Cage.gr | 
 
 **Description:** Balaban 11-cage graph, see https://en.wikipedia.org/wiki/Balaban_11-cage
 
@@ -969,7 +969,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_122.gr](exact/exact_122.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-112 | 425 | 3.0 | social | www-personal.umich.edu/~mejn/netdata/ | adjnoun_112.gr | 
+112 | 425 | 3.0 | social | http://www-personal.umich.edu/~mejn/netdata/ | adjnoun_112.gr | 
 
 **Description:** Adjacency network of common adjectives and nouns in the novel David Copperfield by Charles Dickens.
 
@@ -993,7 +993,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_125.gr](exact/exact_125.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-115 | 161 | 1.0 | biology | www.genome.jp/kegg/ | amj04010.kgml.gr-0.gr | 
+115 | 161 | 1.0 | biology | http://www.genome.jp/kegg/ | amj04010.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "amj04010 MAPK signaling pathway - Alligator mississippiensis (American alligator)".
 
@@ -1001,7 +1001,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_126.gr](exact/exact_126.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-117 | 146 | 0.9 | biology | www.genome.jp/kegg/ | mrt01130.kgml.gr-0.gr | 
+117 | 146 | 0.9 | biology | http://www.genome.jp/kegg/ | mrt01130.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of a map of pathways of Malassezia restricta.
 
@@ -1009,7 +1009,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_127.gr](exact/exact_127.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-119 | 147 | 0.9 | biology | www.genome.jp/kegg/ | mmu05200.kgml.gr-2.gr | 
+119 | 147 | 0.9 | biology | http://www.genome.jp/kegg/ | mmu05200.kgml.gr-2.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mmu05200 Pathways in cancer - Mus musculus (mouse)".
 
@@ -1025,7 +1025,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_129.gr](exact/exact_129.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-120 | 240 | 1.5 | named | github.com/freetdi/named-graphs | BubbleSortGraph_5.gr | 
+120 | 240 | 1.5 | named | https://github.com/freetdi/named-graphs | BubbleSortGraph_5.gr | 
 
 **Description:** Bubble sort graph for 5-permutations
 
@@ -1049,7 +1049,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_132.gr](exact/exact_132.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-123 | 243 | 1.5 | named | github.com/freetdi/named-graphs | SierpinskiGasketGraph_5.gr | 
+123 | 243 | 1.5 | named | https://github.com/freetdi/named-graphs | SierpinskiGasketGraph_5.gr | 
 
 **Description:** Sierpinski Gasket graph of generation 5
 
@@ -1065,7 +1065,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_134.gr](exact/exact_134.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-125 | 141 | 1.1 | biology | networkrepository.com | ENZYMES_g296.gr | 
+125 | 141 | 1.1 | biology | http://networkrepository.com/ | ENZYMES_g296.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2009
 
@@ -1073,7 +1073,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_135.gr](exact/exact_135.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-126 | 189 | 1.2 | named | github.com/freetdi/named-graphs | Tutte12Cage.gr | 
+126 | 189 | 1.2 | named | https://github.com/freetdi/named-graphs | Tutte12Cage.gr | 
 
 **Description:** Tutte 12 cage graph, see https://en.wikipedia.org/wiki/Tutte_12-cage
 
@@ -1081,7 +1081,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_136.gr](exact/exact_136.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-126 | 315 | 1.9 | named | github.com/freetdi/named-graphs | OddGraph_5.gr | 
+126 | 315 | 1.9 | named | https://github.com/freetdi/named-graphs | OddGraph_5.gr | 
 
 **Description:** Odd graph O_5, which is the Kneser graph KG(9,4)
 
@@ -1089,7 +1089,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_137.gr](exact/exact_137.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-126 | 4100 | 24.7 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | zeroin.i.1.gr | 
+126 | 4100 | 24.7 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | zeroin.i.1.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 
@@ -1105,7 +1105,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_139.gr](exact/exact_139.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-128 | 266 | 1.7 | biology | ginsim.org/models_repository | RodriguezJorge_Merged_TCR_TLR5_Signalling_BooleanModel_15Jul2018.gr | 
+128 | 266 | 1.7 | biology | http://ginsim.org/models_repository | RodriguezJorge_Merged_TCR_TLR5_Signalling_BooleanModel_15Jul2018.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 
@@ -1129,7 +1129,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_142.gr](exact/exact_142.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-133 | 167 | 1.0 | biology | www.genome.jp/kegg/ | cne01130.kgml.gr-0.gr | 
+133 | 167 | 1.0 | biology | http://www.genome.jp/kegg/ | cne01130.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of a map of pathways of Cryptococcus neoformans var. neoformans JEC21.
 
@@ -1177,7 +1177,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_148.gr](exact/exact_148.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-145 | 2512 | 15.0 | social | networkrepository.com | aves-wildbird-network-5.gr | 
+145 | 2512 | 15.0 | social | http://networkrepository.com/ | aves-wildbird-network-5.gr | 
 
 **Description:** an animal social network. Groups were defined as individuals detected on the same nest-box during the same day, and co-memberships represented individuals that overlapped in nest-box exploration patterns during the same day. Networks were calculated from these group-by-individual matrices using the halfweight index. Each network represents social data collected for consecutive 6-day time window. From: Firth, Josh A., and Ben C. Sheldon. "Experimental manipulation of avian social structure reveals segregation is carried over across contexts." Proceedings of the Royal Society of London B: Biological Sciences 282.1802 (2015): 20142350.
 
@@ -1185,7 +1185,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_149.gr](exact/exact_149.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-146 | 250 | 1.6 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-03.txt.gr | 
+146 | 250 | 1.6 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-03.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 
@@ -1225,7 +1225,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_154.gr](exact/exact_154.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-157 | 3541 | 21.5 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | zeroin.i.2.gr | 
+157 | 3541 | 21.5 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | zeroin.i.2.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 
@@ -1257,7 +1257,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_158.gr](exact/exact_158.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-163 | 278 | 1.8 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-b-03.txt.gr | 
+163 | 278 | 1.8 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-b-03.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 
@@ -1273,7 +1273,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_160.gr](exact/exact_160.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-167 | 213 | 1.4 | biology | www.genome.jp/kegg/ | mrt01110.kgml.gr-0.gr | 
+167 | 213 | 1.4 | biology | http://www.genome.jp/kegg/ | mrt01110.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mrt01110 Biosynthesis of secondary metabolites - Malassezia restricta".
 
@@ -1281,7 +1281,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_161.gr](exact/exact_161.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-167 | 328 | 2.2 | named | github.com/freetdi/named-graphs | WorldMap.gr | 
+167 | 328 | 2.2 | named | https://github.com/freetdi/named-graphs | WorldMap.gr | 
 
 **Description:** Graph of all the countries, in which two countries are adjacent in the graph if they have a common boundary. From sage’s WorldMath() function.
 
@@ -1313,7 +1313,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_165.gr](exact/exact_165.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-176 | 186 | 46.9 | infrastracture | github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_metro.gr | 
+176 | 186 | 46.9 | infrastracture | https://github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_metro.gr | 
 
 **Description:** Transit graphs contributed by Johannes Fichte for PACE 2018
 
@@ -1321,7 +1321,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_166.gr](exact/exact_166.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-176 | 3973 | 24.8 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | mulsol.i.5.gr | 
+176 | 3973 | 24.8 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | mulsol.i.5.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 
@@ -1369,7 +1369,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_172.gr](exact/exact_172.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-195 | 342 | 2.3 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-04.txt.gr | 
+195 | 342 | 2.3 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-04.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 
@@ -1409,7 +1409,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_177.gr](exact/exact_177.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-204 | 248 | 1.6 | biology | www.genome.jp/kegg/ | olu01110.kgml.gr-0.gr | 
+204 | 248 | 1.6 | biology | http://www.genome.jp/kegg/ | olu01110.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "olu01110 Biosynthesis of secondary metabolites - Ostreococcus lucimarinus".
 
@@ -1417,7 +1417,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_178.gr](exact/exact_178.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-210 | 2520 | 17.2 | named | github.com/freetdi/named-graphs | JohnsonGraph_10_4.gr | 
+210 | 2520 | 17.2 | named | https://github.com/freetdi/named-graphs | JohnsonGraph_10_4.gr | 
 
 **Description:** Johnson J(10,4) graph, see https://en.wikipedia.org/wiki/Johnson_graph
 
@@ -1441,7 +1441,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_181.gr](exact/exact_181.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-223 | 265 | 1.8 | biology | www.genome.jp/kegg/ | bpg01110.kgml.gr-0.gr | 
+223 | 265 | 1.8 | biology | http://www.genome.jp/kegg/ | bpg01110.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "bpg01110 Biosynthesis of secondary metabolites - Bathycoccus prasinos".
 
@@ -1457,7 +1457,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_183.gr](exact/exact_183.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-231 | 3465 | 23.9 | named | github.com/freetdi/named-graphs | CameronGraph.gr | 
+231 | 3465 | 23.9 | named | https://github.com/freetdi/named-graphs | CameronGraph.gr | 
 
 **Description:** Cameron graph, see  see https://www.win.tue.nl/~aeb/graphs/Cameron.html
 
@@ -1465,7 +1465,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_184.gr](exact/exact_184.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-244 | 290 | 2.0 | biology | www.genome.jp/kegg/ | mpp01110.kgml.gr-0.gr | 
+244 | 290 | 2.0 | biology | http://www.genome.jp/kegg/ | mpp01110.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mpp01110 Biosynthesis of secondary metabolites - Micromonas pusilla".
 
@@ -1497,7 +1497,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_188.gr](exact/exact_188.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-300 | 508 | 3.3 | biology | thebiogrid.org | S1_Table.gr | 
+300 | 508 | 3.3 | biology | https://thebiogrid.org/ | S1_Table.gr | 
 
 **Description:** This is a protein-interaction network containing interactions determined using tandem-affinity purification. Data gathered by Cloutier, P. et al., R2tp/prefoldin-like component ruvbl1/ruvbl2 directly interacts with znhit2 to regulate assembly of u5 small nuclear ribonucleoprotein. Nature Communications, 8(1), 15615, 2007. http://dx.doi.org/10.1038/ncomms15615
 
@@ -1569,7 +1569,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_197.gr](exact/exact_197.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-469 | 614 | 4.4 | biology | www.genome.jp/kegg/ | uma01100.kgml.gr-0.gr | 
+469 | 614 | 4.4 | biology | http://www.genome.jp/kegg/ | uma01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "uma01100 Metabolic pathways - Ustilago maydis".
 
@@ -1585,7 +1585,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [exact_199.gr](exact/exact_199.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-491 | 645 | 4.7 | biology | thebiogrid.org | Bandyopadhyay2010.gr | 
+491 | 645 | 4.7 | biology | https://thebiogrid.org/ | Bandyopadhyay2010.gr | 
 
 **Description:** This is a protein-interaction network between human mitogen-activated protein kinase (MAPK)-related proteins and other cellular machinery. The nodes are the proteins and edges represent that the proteins bind to each other as detected by using "yeast two-hybrid screening". Data gathered by Bandyopadhyay, S. et al., A human map kinase interactome. Nature Methods, 7(10), 801–805, 2010. http://dx.doi.org/10.1038/nmeth.1506
 

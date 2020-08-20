@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: sites.google.com/site/ucinetsoftware/datasets 
+c ORIGIN: https://sites.google.com/site/ucinetsoftware/datasets 
 c DESCRIPTION: A covert network. Operation JUANES (N=51). In 2009, the police investigation detected a group involved in the smuggling of cocaine from Mexico to be distributed in Madrid (Spain). In this case, the group operated in close cooperation with another organization that was laundering the illegal income from drug distribution from this and other groups. The cocaine traffickers earned an estimated EUR 60 million. 
 p tdp 49 85
 14 18

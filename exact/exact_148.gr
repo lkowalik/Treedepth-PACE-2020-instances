@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: networkrepository.com 
+c ORIGIN: http://networkrepository.com/ 
 c DESCRIPTION: an animal social network. Groups were defined as individuals detected on the same nest-box during the same day, and co-memberships represented individuals that overlapped in nest-box exploration patterns during the same day. Networks were calculated from these group-by-individual matrices using the halfweight index. Each network represents social data collected for consecutive 6-day time window. From: Firth, Josh A., and Ben C. Sheldon. "Experimental manipulation of avian social structure reveals segregation is carried over across contexts." Proceedings of the Royal Society of London B: Biological Sciences 282.1802 (2015): 20142350. 
 p tdp 145 2512
 1 2

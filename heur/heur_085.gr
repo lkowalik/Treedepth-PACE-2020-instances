@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a collection of protein-function association networks for a large number of human tissues. Nodes represent human proteins, tissues, and biological functions. Edges represent associations that indicate different biological roles of proteins in various tissues and cell types. The information on biological functions taking place in various tissues is determined based on manual curation and knowledge extracted from a tissue hierarchy. For example, 'low-density lipoprotein particle remodeling' is a biological function specific to blood plasma.  References: Predicting multicellular function through multi-layer tissue networks. Marinka Zitnik and Jure Leskovec. Bioinformatics. 2017. Understanding multicellular function and disease with human tissue-specific networks. Greene, Casey S., et al. Nature Genetics. 2015. BRENDA in 2015: exciting developments in its 25th year of existence. Chang, Antje, et al. Nucleic Acids Research. 2014. 
 p tdp 2192 5976
 1 2

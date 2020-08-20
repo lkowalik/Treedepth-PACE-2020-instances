@@ -7,7 +7,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_002.gr](heur/heur_002.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-100 | 1800 | 10.3 | named | github.com/freetdi/named-graphs | HallJankoGraph.gr | 
+100 | 1800 | 10.3 | named | https://github.com/freetdi/named-graphs | HallJankoGraph.gr | 
 
 **Description:** Hall-Janko graph, see https://en.wikipedia.org/wiki/Hall%E2%80%93Janko_graph
 ## [heur_003.gr](heur/heur_003.gr)
@@ -19,19 +19,19 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_004.gr](heur/heur_004.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-105 | 441 | 3.2 | social | www-personal.umich.edu/~mejn/netdata/ | polbooks_105.gr | 
+105 | 441 | 3.2 | social | http://www-personal.umich.edu/~mejn/netdata/ | polbooks_105.gr | 
 
 **Description:** Books about US politics: A network of books about US politics published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com. Edges between books represent frequent copurchasing of books by the same buyers. The network was compiled by V. Krebs and is unpublished, but can found on Krebs' web site. Thanks to Valdis Krebs for permission to post these data on this web site.
 ## [heur_005.gr](heur/heur_005.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-111 | 1029 | 6.0 | social | networkrepository.com | aves-songbird-social.gr | 
+111 | 1029 | 6.0 | social | http://networkrepository.com/ | aves-songbird-social.gr | 
 
 **Description:** an animal social network. A machine learning algorithm was applied to identify clusters of detections on feeders. Next, the network was generated based on patterns of co-occurrence by individuals in the same feeding events. Asociations between birds were defined using the simple ratio index. From: Adelman, James S., et al. "Feeder use predicts both acquisition and transmission of a contagious pathogen in a North American songbird." Proc. R. Soc. B. Vol. 282. No. 1815. The Royal Society, 2015.
 ## [heur_006.gr](heur/heur_006.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-112 | 425 | 3.0 | social | www-personal.umich.edu/~mejn/netdata/ | adjnoun_112.gr | 
+112 | 425 | 3.0 | social | http://www-personal.umich.edu/~mejn/netdata/ | adjnoun_112.gr | 
 
 **Description:** Adjacency network of common adjectives and nouns in the novel David Copperfield by Charles Dickens.
 ## [heur_007.gr](heur/heur_007.gr)
@@ -43,13 +43,13 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_008.gr](heur/heur_008.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-115 | 613 | 4.5 | social | www-personal.umich.edu/~mejn/netdata/ | football_115.gr | 
+115 | 613 | 4.5 | social | http://www-personal.umich.edu/~mejn/netdata/ | football_115.gr | 
 
 **Description:** American College football: network of American football games between Division IA colleges during regular season Fall 2000. Please cite M. Girvan and M. E. J. Newman, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002).
 ## [heur_009.gr](heur/heur_009.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-120 | 240 | 1.5 | named | github.com/freetdi/named-graphs | BubbleSortGraph_5.gr | 
+120 | 240 | 1.5 | named | https://github.com/freetdi/named-graphs | BubbleSortGraph_5.gr | 
 
 **Description:** Bubble sort graph for 5-permutations
 ## [heur_010.gr](heur/heur_010.gr)
@@ -61,13 +61,13 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_011.gr](heur/heur_011.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-125 | 141 | 1.1 | biology | networkrepository.com | ENZYMES_g296.gr | 
+125 | 141 | 1.1 | biology | http://networkrepository.com/ | ENZYMES_g296.gr | 
 
 **Description:** ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2009
 ## [heur_012.gr](heur/heur_012.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-128 | 266 | 1.7 | biology | ginsim.org/models_repository | RodriguezJorge_Merged_TCR_TLR5_Signalling_BooleanModel_15Jul2018.gr | 
+128 | 266 | 1.7 | biology | http://ginsim.org/models_repository | RodriguezJorge_Merged_TCR_TLR5_Signalling_BooleanModel_15Jul2018.gr | 
 
 **Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 ## [heur_013.gr](heur/heur_013.gr)
@@ -79,19 +79,19 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_014.gr](heur/heur_014.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-138 | 3925 | 23.9 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | mulsol.i.1.gr | 
+138 | 3925 | 23.9 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | mulsol.i.1.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 ## [heur_015.gr](heur/heur_015.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-145 | 2512 | 15.0 | social | networkrepository.com | aves-wildbird-network-5.gr | 
+145 | 2512 | 15.0 | social | http://networkrepository.com/ | aves-wildbird-network-5.gr | 
 
 **Description:** an animal social network. Groups were defined as individuals detected on the same nest-box during the same day, and co-memberships represented individuals that overlapped in nest-box exploration patterns during the same day. Networks were calculated from these group-by-individual matrices using the halfweight index. Each network represents social data collected for consecutive 6-day time window. From: Firth, Josh A., and Ben C. Sheldon. "Experimental manipulation of avian social structure reveals segregation is carried over across contexts." Proceedings of the Royal Society of London B: Biological Sciences 282.1802 (2015): 20142350.
 ## [heur_016.gr](heur/heur_016.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-146 | 250 | 1.6 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-03.txt.gr | 
+146 | 250 | 1.6 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-03.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_017.gr](heur/heur_017.gr)
@@ -103,7 +103,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_018.gr](heur/heur_018.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-163 | 278 | 1.8 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-b-03.txt.gr | 
+163 | 278 | 1.8 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-b-03.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_019.gr](heur/heur_019.gr)
@@ -115,25 +115,25 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_020.gr](heur/heur_020.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-175 | 3946 | 24.6 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | mulsol.i.4.gr | 
+175 | 3946 | 24.6 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | mulsol.i.4.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 ## [heur_021.gr](heur/heur_021.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-195 | 340 | 2.3 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob2-Lpr-a-04.txt.gr | 
+195 | 340 | 2.3 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob2-Lpr-a-04.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_022.gr](heur/heur_022.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-195 | 342 | 2.3 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-04.txt.gr | 
+195 | 342 | 2.3 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-a-04.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_023.gr](heur/heur_023.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-210 | 2520 | 17.2 | named | github.com/freetdi/named-graphs | JohnsonGraph_10_4.gr | 
+210 | 2520 | 17.2 | named | https://github.com/freetdi/named-graphs | JohnsonGraph_10_4.gr | 
 
 **Description:** Johnson J(10,4) graph, see https://en.wikipedia.org/wiki/Johnson_graph
 ## [heur_024.gr](heur/heur_024.gr)
@@ -163,55 +163,55 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_028.gr](heur/heur_028.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-242 | 927 | 6.5 | social | konect.cc | physicians.gr | 
+242 | 927 | 6.5 | social | http://konect.cc/ | physicians.gr | 
 
 **Description:** This directed network captures innovation spread among 246 physicians in for towns in Illinois, Peoria, Bloomington, Quincy and Galesburg. The data was collected in 1966. A node represents a physician and an edge between two physicians shows that the left physician told that the righ physician is his friend or that he turns to the right physician if he needs advice or is interested in a discussion. There always only exists one edge between two nodes even if more than one of the listed conditions are true.
 ## [heur_029.gr](heur/heur_029.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-244 | 290 | 2.0 | biology | www.genome.jp/kegg/ | mpp01110.kgml.gr-0.gr | 
+244 | 290 | 2.0 | biology | http://www.genome.jp/kegg/ | mpp01110.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mpp01110 Biosynthesis of secondary metabolites - Micromonas pusilla".
 ## [heur_030.gr](heur/heur_030.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-255 | 356 | 2.5 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob2-egl-g2-B.gr | 
+255 | 356 | 2.5 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob2-egl-g2-B.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_031.gr](heur/heur_031.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-255 | 364 | 2.6 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob2-egl-g2-D.gr | 
+255 | 364 | 2.6 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob2-egl-g2-D.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_032.gr](heur/heur_032.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-255 | 369 | 2.6 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob2-egl-g1-D.gr | 
+255 | 369 | 2.6 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob2-egl-g1-D.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_033.gr](heur/heur_033.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-255 | 507 | 3.6 | named | github.com/freetdi/named-graphs | RingedTree_8.gr | 
+255 | 507 | 3.6 | named | https://github.com/freetdi/named-graphs | RingedTree_8.gr | 
 
 **Description:** The ringed tree on 8 levels. (A ringed tree of level k is a binary tree with k levels (counting the root as a level), in which all vertices at the same level are connected by a ring.)
 ## [heur_034.gr](heur/heur_034.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-269 | 11654 | 77.2 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | fpsol2.i.1.gr | 
+269 | 11654 | 77.2 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | fpsol2.i.1.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 ## [heur_035.gr](heur/heur_035.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-277 | 502 | 3.6 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-c-04.txt.gr | 
+277 | 502 | 3.6 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-c-04.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_036.gr](heur/heur_036.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-297 | 2148 | 15.7 | social | www-personal.umich.edu/~mejn/netdata/ | celegansneural_297.gr | 
+297 | 2148 | 15.7 | social | http://www-personal.umich.edu/~mejn/netdata/ | celegansneural_297.gr | 
 
 **Description:** A directed, weighted network representing the neural network of C. Elegans. Data compiled by D. Watts and S. Strogatz and made available on the web here. Please cite D. J. Watts and S. H. Strogatz, Nature 393, 440-442 (1998). Original experimental data taken from J. G. White, E. Southgate, J. N. Thompson, and S. Brenner, Phil. Trans. R. Soc. London 314, 1-340 (1986).
 ## [heur_037.gr](heur/heur_037.gr)
@@ -223,7 +223,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_038.gr](heur/heur_038.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-300 | 508 | 3.3 | biology | thebiogrid.org | S1_Table.gr | 
+300 | 508 | 3.3 | biology | https://thebiogrid.org/ | S1_Table.gr | 
 
 **Description:** This is a protein-interaction network containing interactions determined using tandem-affinity purification. Data gathered by Cloutier, P. et al., R2tp/prefoldin-like component ruvbl1/ruvbl2 directly interacts with znhit2 to regulate assembly of u5 small nuclear ribonucleoprotein. Nature Communications, 8(1), 15615, 2007. http://dx.doi.org/10.1038/ncomms15615
 ## [heur_039.gr](heur/heur_039.gr)
@@ -235,43 +235,43 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_040.gr](heur/heur_040.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-313 | 386 | 2.7 | biology | www.genome.jp/kegg/ | ppp01110.kgml.gr-0.gr | 
+313 | 386 | 2.7 | biology | http://www.genome.jp/kegg/ | ppp01110.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ppp01110 Biosynthesis of secondary metabolites - Physcomitrium patens".
 ## [heur_041.gr](heur/heur_041.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-332 | 2126 | 14.3 | infrastracture | networkrepository.com | inf-USAir97.gr | 
+332 | 2126 | 14.3 | infrastracture | http://networkrepository.com/ | inf-USAir97.gr | 
 
 **Description:** a flight network
 ## [heur_042.gr](heur/heur_042.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-353 | 14617 | 105.8 | social | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | school1_nsh.gr | 
+353 | 14617 | 105.8 | social | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | school1_nsh.gr | 
 
 **Description:** Class  scheduling graphs.  Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 ## [heur_043.gr](heur/heur_043.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-356 | 592 | 111.0 | infrastracture | github.com/daajoe/transit_graphs | db-2015-12-13_2016-12-12_from_2016-04-18.zip.gr | 
+356 | 592 | 111.0 | infrastracture | https://github.com/daajoe/transit_graphs | db-2015-12-13_2016-12-12_from_2016-04-18.zip.gr | 
 
 **Description:** Transit graphs contributed by Johannes Fichte for PACE 2016
 ## [heur_044.gr](heur/heur_044.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-369 | 676 | 4.9 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-c-05.txt.gr | 
+369 | 676 | 4.9 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-c-05.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_045.gr](heur/heur_045.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-401 | 732 | 5.4 | infrastracture | gitlab.com/rvb/mwcarp-ob | ob-Lpr-b-05.txt.gr | 
+401 | 732 | 5.4 | infrastracture | https://gitlab.com/rvb/mwcarp-ob | ob-Lpr-b-05.txt.gr | 
 
 **Description:** a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river)
 ## [heur_046.gr](heur/heur_046.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-423 | 540 | 3.8 | biology | www.genome.jp/kegg/ | mrt01100.kgml.gr-0.gr | 
+423 | 540 | 3.8 | biology | http://www.genome.jp/kegg/ | mrt01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mrt01100 Metabolic pathways - Malassezia restricta".
 ## [heur_047.gr](heur/heur_047.gr)
@@ -283,25 +283,25 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_048.gr](heur/heur_048.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-446 | 1354 | 10.3 | social | networkrepository.com | aves-weaver-social.gr | 
+446 | 1354 | 10.3 | social | http://networkrepository.com/ | aves-weaver-social.gr | 
 
 **Description:** an animal social network. A network edge was drawn between individuals that used the same nest chambers either for roosting or nest-building at any given time within a series of observations at the same colony in the same year, either together in the nest chamber at the same time or at different times. Networks represent social data collected from 23 colonies of sociable weavers. From: van Dijk, Rene E., et al., "Cooperative investment in public goods is kin directed in communal nests of social birds." Ecology letters 17.9 (2014): 1141-1148.
 ## [heur_049.gr](heur/heur_049.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-491 | 645 | 4.7 | biology | thebiogrid.org | Bandyopadhyay2010.gr | 
+491 | 645 | 4.7 | biology | https://thebiogrid.org/ | Bandyopadhyay2010.gr | 
 
 **Description:** This is a protein-interaction network between human mitogen-activated protein kinase (MAPK)-related proteins and other cellular machinery. The nodes are the proteins and edges represent that the proteins bind to each other as detected by using "yeast two-hybrid screening". Data gathered by Bandyopadhyay, S. et al., A human map kinase interactome. Nature Methods, 7(10), 801–805, 2010. http://dx.doi.org/10.1038/nmeth.1506
 ## [heur_050.gr](heur/heur_050.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-493 | 618 | 4.4 | biology | www.genome.jp/kegg/ | adl01100.kgml.gr-0.gr | 
+493 | 618 | 4.4 | biology | http://www.genome.jp/kegg/ | adl01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "adl01100 Metabolic pathways - Auricularia subglabra".
 ## [heur_051.gr](heur/heur_051.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-494 | 586 | 4.4 | infrastracture | networkrepository.com | power-494-bus.gr | 
+494 | 586 | 4.4 | infrastracture | http://networkrepository.com/ | power-494-bus.gr | 
 
 **Description:** a power grid network
 ## [heur_052.gr](heur/heur_052.gr)
@@ -313,43 +313,43 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_053.gr](heur/heur_053.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-559 | 13969 | 92.3 | computer science | archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | inithx.i.3.gr | 
+559 | 13969 | 92.3 | computer science | http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ | inithx.i.3.gr | 
 
 **Description:** Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski
 ## [heur_054.gr](heur/heur_054.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-564 | 713 | 5.2 | biology | www.genome.jp/kegg/ | shs01100.kgml.gr-0.gr | 
+564 | 713 | 5.2 | biology | http://www.genome.jp/kegg/ | shs01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "shs01100 Metabolic pathways - Stereum hirsutum".
 ## [heur_055.gr](heur/heur_055.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-590 | 668 | 157.7 | infrastracture | github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_tram.gr | 
+590 | 668 | 157.7 | infrastracture | https://github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_tram.gr | 
 
 **Description:** Transit graphs contributed by Johannes Fichte for PACE 2020
 ## [heur_056.gr](heur/heur_056.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-600 | 1200 | 9.0 | named | github.com/freetdi/named-graphs | Cell120.gr | 
+600 | 1200 | 9.0 | named | https://github.com/freetdi/named-graphs | Cell120.gr | 
 
 **Description:** 120-Cell graph, see https://en.wikipedia.org/wiki/120-cell
 ## [heur_057.gr](heur/heur_057.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-620 | 2090 | 14.7 | social | networkrepository.com | fb-pages-food.gr | 
+620 | 2090 | 14.7 | social | http://networkrepository.com/ | fb-pages-food.gr | 
 
 **Description:** Data collected about Facebook pages (November 2017). These datasets represent blue verified Facebook page networks of different categories. Nodes represent the pages and edges are mutual likes among them.
 ## [heur_058.gr](heur/heur_058.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-662 | 906 | 6.9 | infrastracture | networkrepository.com | power-662-bus.gr | 
+662 | 906 | 6.9 | infrastracture | http://networkrepository.com/ | power-662-bus.gr | 
 
 **Description:** a power grid network
 ## [heur_059.gr](heur/heur_059.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-669 | 861 | 6.3 | biology | www.genome.jp/kegg/ | ccae01100.kgml.gr-0.gr | 
+669 | 861 | 6.3 | biology | http://www.genome.jp/kegg/ | ccae01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ccae01100 Metabolic pathways - Cyanistes caeruleus (blue tit)".
 ## [heur_060.gr](heur/heur_060.gr)
@@ -367,37 +367,37 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_062.gr](heur/heur_062.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-800 | 1020 | 7.6 | biology | www.genome.jp/kegg/ | sfm01100.kgml.gr-0.gr | 
+800 | 1020 | 7.6 | biology | http://www.genome.jp/kegg/ | sfm01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "sfm01100 Metabolic pathways - Scleropages formosus (Asian bonytongue)".
 ## [heur_063.gr](heur/heur_063.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-800 | 1540 | 11.6 | named | github.com/freetdi/named-graphs | Grid2dGraph_20_40.gr | 
+800 | 1540 | 11.6 | named | https://github.com/freetdi/named-graphs | Grid2dGraph_20_40.gr | 
 
 **Description:** A 20x40 grid graph
 ## [heur_064.gr](heur/heur_064.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-820 | 1033 | 7.7 | biology | www.genome.jp/kegg/ | mjv01100.kgml.gr-0.gr | 
+820 | 1033 | 7.7 | biology | http://www.genome.jp/kegg/ | mjv01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mjv01100 Metabolic pathways - Manis javanica (Malayan pangolin)".
 ## [heur_065.gr](heur/heur_065.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-832 | 86528 | 658.9 | biology | snap.stanford.edu/biodata/ | SS-Butterfly_weights.gr | 
+832 | 86528 | 658.9 | biology | http://snap.stanford.edu/biodata/ | SS-Butterfly_weights.gr | 
 
 **Description:** This is a butterfly similarity network. Nodes represent butterflies (organisms) and edges represent visual similarities between the organisms. Visual similarities are calculated using butterfly images. The information is extracted from the Leeds butterfly fine-grained species image dataset. Network statistics are calculated on edges with weights above the 75-th percentile.  References: Network enhancement as a general method to denoise weighted biological networks. Bo Wang, Armin Pourshafeie, Marinka Zitnik, Junjie Zhu, Carlos D. Bustamante, Serafim Batzoglou, and Jure Leskovec. Nature Communications. 2018.
 ## [heur_066.gr](heur/heur_066.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-858 | 1078 | 8.0 | biology | www.genome.jp/kegg/ | mcf01100.kgml.gr-0.gr | 
+858 | 1078 | 8.0 | biology | http://www.genome.jp/kegg/ | mcf01100.kgml.gr-0.gr | 
 
 **Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mcf01100 Metabolic pathways - Macaca fascicularis (crab-eating macaque)".
 ## [heur_067.gr](heur/heur_067.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-889 | 2914 | 21.9 | social | networkrepository.com | soc-wiki-Vote.gr | 
+889 | 2914 | 21.9 | social | http://networkrepository.com/ | soc-wiki-Vote.gr | 
 
 **Description:** The dataset contains all the Wikipedia voting data from the inception of Wikipedia till January 2008. Nodes in the network represent wikipedia users and a directed edge from node i to node j represents that user i voted on user j.
 ## [heur_068.gr](heur/heur_068.gr)
@@ -421,25 +421,25 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_071.gr](heur/heur_071.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1023 | 2043 | 15.7 | named | github.com/freetdi/named-graphs | RingedTree_10.gr | 
+1023 | 2043 | 15.7 | named | https://github.com/freetdi/named-graphs | RingedTree_10.gr | 
 
 **Description:** The ringed tree on 10 levels. (A ringed tree of level k is a binary tree with k levels (counting the root as a level), in which all vertices at the same level are connected by a ring.)
 ## [heur_072.gr](heur/heur_072.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1138 | 1458 | 11.5 | infrastracture | networkrepository.com | power-1138-bus.gr | 
+1138 | 1458 | 11.5 | infrastracture | http://networkrepository.com/ | power-1138-bus.gr | 
 
 **Description:** a power grid network
 ## [heur_073.gr](heur/heur_073.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1165 | 35474 | 279.3 | biology | snap.stanford.edu/biodata/ | NE5K_HiC_Net_15.gr | 
+1165 | 35474 | 279.3 | biology | http://snap.stanford.edu/biodata/ | NE5K_HiC_Net_15.gr | 
 
 **Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (5K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_074.gr](heur/heur_074.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1175 | 1443 | 11.3 | infrastracture | networkrepository.com | inf-euroroad.gr | 
+1175 | 1443 | 11.3 | infrastracture | http://networkrepository.com/ | inf-euroroad.gr | 
 
 **Description:** a road network
 ## [heur_075.gr](heur/heur_075.gr)
@@ -451,49 +451,49 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_076.gr](heur/heur_076.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1224 | 16717 | 133.8 | social | www-personal.umich.edu/~mejn/netdata/ | polblogs_1490.gr | 
+1224 | 16717 | 133.8 | social | http://www-personal.umich.edu/~mejn/netdata/ | polblogs_1490.gr | 
 
 **Description:** Political blogs: A directed network of hyperlinks between weblogs on US politics, recorded in 2005 by Adamic and Glance. Please cite L. A. Adamic and N. Glance, "The political blogosphere and the 2004 US Election", in Proceedings of the WWW-2005 Workshop on the Weblogging Ecosystem (2005). Thanks to Lada Adamic for permission to post these data on this web site.
 ## [heur_077.gr](heur/heur_077.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1461 | 3010 | 25.8 | social | www-personal.umich.edu/~mejn/netdata/ | netscience_1589.gr | 
+1461 | 3010 | 25.8 | social | http://www-personal.umich.edu/~mejn/netdata/ | netscience_1589.gr | 
 
 **Description:** Coauthorships in network science: coauthorship network of scientists working on network theory and experiment, as compiled by M. Newman in May 2006. A figure depicting the largest component of this network can be found here. These data can be cited as M. E. J. Newman, Phys. Rev. E 74, 036104 (2006).
 ## [heur_078.gr](heur/heur_078.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1506 | 1862 | 479.1 | infrastracture | github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_train+metro+tram.gr | 
+1506 | 1862 | 479.1 | infrastracture | https://github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_train+metro+tram.gr | 
 
 **Description:** Transit graphs contributed by Johannes Fichte for PACE 2019
 ## [heur_079.gr](heur/heur_079.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1515 | 48517 | 373.6 | biology | snap.stanford.edu/biodata/ | ChCh-Miner_durgbank-chem-chem.gr | 
+1515 | 48517 | 373.6 | biology | http://snap.stanford.edu/biodata/ | ChCh-Miner_durgbank-chem-chem.gr | 
 
 **Description:** This is a network of interactions betweeen drugs, which are approved by the U.S. Food and Drug Administration. Nodes represent drugs and edges represent drug interactions. Drug-drug interactions occur when the pharmacologic effect of a one drug is altered by the action of another drug, leading to unpredictable clinical effects such as adverse drug reactions. When several drugs are administered together, there might be a greater possibility of adverse drug reactions as one drug can increase or decrease the effect of another drug. It is thus crucial to identify drug-drug interactions, especially during drug development, when one needs to identify interactions between a new candidate drug and drugs that are already on the market. Drug-drug interactions are extracted from drug labels and scientific publications.  References: DrugBank 5.0: a major update to the DrugBank database for 2018. Wishart, David S., et al. Nucleic Acids Research. 2017.
 ## [heur_080.gr](heur/heur_080.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1634 | 23805 | 189.8 | biology | string-db.org | 78344.protein.links.v11.0.txt.gr | 
+1634 | 23805 | 189.8 | biology | https://string-db.org/ | 78344.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Bifidobacterium gallinarum.
 ## [heur_081.gr](heur/heur_081.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1723 | 2394 | 21.5 | infrastracture | networkrepository.com | power-bcspwr09.gr | 
+1723 | 2394 | 21.5 | infrastracture | http://networkrepository.com/ | power-bcspwr09.gr | 
 
 **Description:** a power grid network
 ## [heur_082.gr](heur/heur_082.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-1900 | 13842 | 118.0 | social | konect.cc | email-ucirvine.gr | 
+1900 | 13842 | 118.0 | social | http://konect.cc/ | email-ucirvine.gr | 
 
 **Description:** This directed network contains sent messages between the users of an online community of students from the University of California, Irvine. A node represents a user. A directed edge represents a sent message. Multiple edges denote multiple messages.
 ## [heur_083.gr](heur/heur_083.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-2004 | 34196 | 274.3 | biology | string-db.org | 706437.protein.links.v11.0.txt.gr | 
+2004 | 34196 | 274.3 | biology | https://string-db.org/ | 706437.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Streptococcus anginosus F0211.
 ## [heur_084.gr](heur/heur_084.gr)
@@ -505,7 +505,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_085.gr](heur/heur_085.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-2192 | 5976 | 47.9 | biology | snap.stanford.edu/biodata/ | TFG-Ohmnet_tissue-function-gene-cleaned.gr | 
+2192 | 5976 | 47.9 | biology | http://snap.stanford.edu/biodata/ | TFG-Ohmnet_tissue-function-gene-cleaned.gr | 
 
 **Description:** This is a collection of protein-function association networks for a large number of human tissues. Nodes represent human proteins, tissues, and biological functions. Edges represent associations that indicate different biological roles of proteins in various tissues and cell types. The information on biological functions taking place in various tissues is determined based on manual curation and knowledge extracted from a tissue hierarchy. For example, 'low-density lipoprotein particle remodeling' is a biological function specific to blood plasma.  References: Predicting multicellular function through multi-layer tissue networks. Marinka Zitnik and Jure Leskovec. Bioinformatics. 2017. Understanding multicellular function and disease with human tissue-specific networks. Greene, Casey S., et al. Nature Genetics. 2015. BRENDA in 2015: exciting developments in its 25th year of existence. Chang, Antje, et al. Nucleic Acids Research. 2014.
 ## [heur_086.gr](heur/heur_086.gr)
@@ -523,25 +523,25 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_088.gr](heur/heur_088.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-2427 | 16778 | 135.7 | social | networkrepository.com | soc-hamsterster.gr | 
+2427 | 16778 | 135.7 | social | http://networkrepository.com/ | soc-hamsterster.gr | 
 
 **Description:** Network is of the friendships and family links between users of the website http://www.hamsterster.com.
 ## [heur_089.gr](heur/heur_089.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-2538 | 6538 | 55.2 | biology | thebiogrid.org | HC-BIOGRID-2.0.31-nohead.gr | 
+2538 | 6538 | 55.2 | biology | https://thebiogrid.org/ | HC-BIOGRID-2.0.31-nohead.gr | 
 
 **Description:** This is a protein-interaction network containing high-confidence interactions that are corroborated by multiple methods. Compiled by Batada, N. N. et al., Still stratus not altocumulus: further evidence against the date/party hub distinction. PLOS Biology, 5(6), 154, 2007. http://dx.doi.org/10.1371/journal.pbio.0050154
 ## [heur_090.gr](heur/heur_090.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-2725 | 46608 | 401.6 | biology | string-db.org | 1123503.protein.links.v11.0.txt.gr | 
+2725 | 46608 | 401.6 | biology | https://string-db.org/ | 1123503.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Woodsholea maritima.
 ## [heur_091.gr](heur/heur_091.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-2940 | 15688 | 128.2 | infrastracture | networkrepository.com | inf-openflights.gr | 
+2940 | 15688 | 128.2 | infrastracture | http://networkrepository.com/ | inf-openflights.gr | 
 
 **Description:** a flight network
 ## [heur_092.gr](heur/heur_092.gr)
@@ -553,13 +553,13 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_093.gr](heur/heur_093.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-3138 | 35840 | 300.5 | biology | string-db.org | 593907.protein.links.v11.0.txt.gr | 
+3138 | 35840 | 300.5 | biology | https://string-db.org/ | 593907.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Cellvibrio gilvus.
 ## [heur_094.gr](heur/heur_094.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-3282 | 6561 | 58.7 | named | github.com/freetdi/named-graphs | DorogovtsevGoltsevMendesGraph.gr | 
+3282 | 6561 | 58.7 | named | https://github.com/freetdi/named-graphs | DorogovtsevGoltsevMendesGraph.gr | 
 
 **Description:** A Dorogovtsev-Goltsev-Mendes graph of order 8.
 ## [heur_095.gr](heur/heur_095.gr)
@@ -571,37 +571,37 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_096.gr](heur/heur_096.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-3576 | 219227 | 2000.3 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_12.gr | 
+3576 | 219227 | 2000.3 | biology | http://snap.stanford.edu/biodata/ | NE1K_HiC_Net_12.gr | 
 
 **Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_097.gr](heur/heur_097.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-3892 | 17239 | 144.5 | social | networkrepository.com | fb-pages-tvshow.gr | 
+3892 | 17239 | 144.5 | social | http://networkrepository.com/ | fb-pages-tvshow.gr | 
 
 **Description:** Data collected about Facebook pages (November 2017). These datasets represent blue verified Facebook page networks of different categories. Nodes represent the pages and edges are mutual likes among them.
 ## [heur_098.gr](heur/heur_098.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-4050 | 72049 | 654.5 | biology | string-db.org | 351016.protein.links.v11.0.txt.gr | 
+4050 | 72049 | 654.5 | biology | https://string-db.org/ | 351016.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Roseobacter sp. AzwK3b.
 ## [heur_099.gr](heur/heur_099.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-4319 | 64691 | 560.4 | biology | thebiogrid.org | Costanzo2010-StringentCutoff.gr | 
+4319 | 64691 | 560.4 | biology | https://thebiogrid.org/ | Costanzo2010-StringentCutoff.gr | 
 
 **Description:** This is a gene-interaction network containing ~75% of all genes in the budding yeast (Saccharomyces cerevisiae). The vertices are genes and an edge represents the fact that individuals missing both genes are significantly less viable than if they miss only one gene. Data gathered by Costanzo, M. et al., The genetic landscape of a cell, Science, 327(5964), 425–431, 2010. http://dx.doi.org/10.1126/science.1180823
 ## [heur_100.gr](heur/heur_100.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-4835 | 71266 | 626.3 | biology | string-db.org | 272630.protein.links.v11.0.txt.gr | 
+4835 | 71266 | 626.3 | biology | https://string-db.org/ | 272630.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Methylobacterium extorquens AM1.
 ## [heur_101.gr](heur/heur_101.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-4941 | 6594 | 61.6 | infrastracture | networkrepository.com | power-US-Grid.gr | 
+4941 | 6594 | 61.6 | infrastracture | http://networkrepository.com/ | power-US-Grid.gr | 
 
 **Description:** a power grid network
 ## [heur_102.gr](heur/heur_102.gr)
@@ -613,43 +613,43 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_103.gr](heur/heur_103.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-5095 | 7532 | 66.4 | social | networkrepository.com | ca-Erdos992.gr | 
+5095 | 7532 | 66.4 | social | http://networkrepository.com/ | ca-Erdos992.gr | 
 
 **Description:** Erdos collaboration network
 ## [heur_104.gr](heur/heur_104.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-5167 | 39489 | 341.6 | social | networkrepository.com | soc-advogato.gr | 
+5167 | 39489 | 341.6 | social | http://networkrepository.com/ | soc-advogato.gr | 
 
 **Description:** Advogato is a social community platform where users can explicitly express weighted trust relationships among themselves. The dataset contains a list of all of the user-to-user links.
 ## [heur_105.gr](heur/heur_105.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-5200 | 385300 | 3573.6 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_14.gr | 
+5200 | 385300 | 3573.6 | biology | http://snap.stanford.edu/biodata/ | NE1K_HiC_Net_14.gr | 
 
 **Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_106.gr](heur/heur_106.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-5300 | 8271 | 79.0 | infrastracture | networkrepository.com | power-bcspwr10.gr | 
+5300 | 8271 | 79.0 | infrastracture | http://networkrepository.com/ | power-bcspwr10.gr | 
 
 **Description:** a power grid network
 ## [heur_107.gr](heur/heur_107.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-5478 | 341851 | 3173.4 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_18.gr | 
+5478 | 341851 | 3173.4 | biology | http://snap.stanford.edu/biodata/ | NE1K_HiC_Net_18.gr | 
 
 **Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_108.gr](heur/heur_108.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-6024 | 114522 | 1019.5 | biology | string-db.org | 1108849.protein.links.v11.0.txt.gr | 
+6024 | 114522 | 1019.5 | biology | https://string-db.org/ | 1108849.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Penicillium rubens.
 ## [heur_109.gr](heur/heur_109.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-6806 | 366239 | 3450.4 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_21.gr | 
+6806 | 366239 | 3450.4 | biology | http://snap.stanford.edu/biodata/ | NE1K_HiC_Net_21.gr | 
 
 **Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_110.gr](heur/heur_110.gr)
@@ -661,25 +661,25 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_111.gr](heur/heur_111.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-6974 | 177381 | 1569.2 | biology | string-db.org | 29875.protein.links.v11.0.txt.gr | 
+6974 | 177381 | 1569.2 | biology | https://string-db.org/ | 29875.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein interaction network of Trichoderma virens.
 ## [heur_112.gr](heur/heur_112.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-7115 | 100777 | 938.2 | social | networkrepository.com | soc-wiki-elec.gr | 
+7115 | 100777 | 938.2 | social | http://networkrepository.com/ | soc-wiki-elec.gr | 
 
 **Description:** The dataset contains all administrator elections and vote history data based on the latest complete dump of Wikipedia page edit history (from January 3 2008).
 ## [heur_113.gr](heur/heur_113.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-7197 | 466656 | 4040.1 | biology | snap.stanford.edu/biodata/ | DCh-Miner_miner-disease-chemical.gr | 
+7197 | 466656 | 4040.1 | biology | http://snap.stanford.edu/biodata/ | DCh-Miner_miner-disease-chemical.gr | 
 
 **Description:** This is a disease-drug association network that contains information on drug-disease relationships. Nodes represent diseases and drugs (also including certain chemicals that are not human drugs), and edges represent associations between them. Examples of associations include interactions between arsenic and different diseases, including prostatic neoplasms, skin diseases, and myocardial ischemia. Disease-drug associations are useful to understand mechanisms by which drugs treat diseases and to develop hypotheses about mechanisms underlying environmental diseases. The information is extracted from a database of curated and inferred chemical-disease asssociations. Curated chemical-disease associations are extracted from published literature by biocurators. Inferred associations are established via curated chemical-gene interactions (e.g., chemical A is associated with disease B because chemical A has a curated interaction with gene C, and gene C has a curated association with disease B). Citation: The Comparative Toxicogenomics Database: update 2017. Davis, Allan Peter, et al. Nucleic Acids Research. 2016.
 ## [heur_114.gr](heur/heur_114.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-7342 | 15343 | 134.0 | biology | snap.stanford.edu/biodata/ | ChG-Miner_miner-chem-gene.gr | 
+7342 | 15343 | 134.0 | biology | http://snap.stanford.edu/biodata/ | ChG-Miner_miner-chem-gene.gr | 
 
 **Description:** This is a drug-target interaction network that contains information on which genes (i.e., proteins encoded by genes) are targeted by drugs that are on the U.S. market. Drug targets are molecules that play a critical role in the transport, delivery or activation of the drug. Drug target information is widely used to facilitate computational drug target discovery, drug design, drug docking or screening, drug metabolism prediction, drug interaction prediction, and general pharmaceutical research. Drug target information includes biotech drugs and nutraceuticals (these drugs on average have 5-10 unique target proteins), lists all targets that have been found to have physiological or pharmaceutical effects (not only a single primary target), and fully accounts for the fact that many drug targets are protein complexes composed of multiple subunits or combinations of proteins.  References: DrugBank 5.0: a major update to the DrugBank database for 2018. Wishart, David S., et al. Nucleic Acids Research. 2017.
 ## [heur_115.gr](heur/heur_115.gr)
@@ -691,7 +691,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_116.gr](heur/heur_116.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-7610 | 16332 | 152.0 | social | www-personal.umich.edu/~mejn/netdata/ | hep-th_8361.gr | 
+7610 | 16332 | 152.0 | social | http://www-personal.umich.edu/~mejn/netdata/ | hep-th_8361.gr | 
 
 **Description:** High-energy theory collaborations: weighted network of coauthorships between scientists posting preprints on the High-Energy Theory E-Print Archive between Jan 1, 1995 and December 31, 1999. Please cite M. E. J. Newman, Proc. Natl. Acad. Sci. USA 98, 404-409 (2001).
 ## [heur_117.gr](heur/heur_117.gr)
@@ -703,31 +703,31 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_118.gr](heur/heur_118.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-7778 | 36300 | 309.6 | biology | thebiogrid.org | hu.MAP_edges_BioGRID_format_v3_cleaned.gr | 
+7778 | 36300 | 309.6 | biology | https://thebiogrid.org/ | hu.MAP_edges_BioGRID_format_v3_cleaned.gr | 
 
 **Description:** This is a protein-interaction network containing interactions between human proteins determined by mass-spectrometry. Compiled by Drew, K. et al., Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes. Molecular Systems Biology, 13(6), 932, 2017. http://dx.doi.org/10.15252/msb.20167490
 ## [heur_119.gr](heur/heur_119.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-7813 | 21357 | 179.0 | biology | snap.stanford.edu/biodata/ | DG-AssocMiner_miner-disease-gene-cleaned.gr | 
+7813 | 21357 | 179.0 | biology | http://snap.stanford.edu/biodata/ | DG-AssocMiner_miner-disease-gene-cleaned.gr | 
 
 **Description:** This is a disease-gene association network that contains information on disease-associated genes. Nodes represent genes and diseases and edges represent associations between them. The information about genes and variants involved in human diseases can be used for different research purposes, including the investigation of molecular mechanisms of species diseases and their comorbidities, the analysis of the properties of disease genes, the generation of hypotheses on drug therapeutic action and drug adverse effects, the validation of computationally predicted disease genes, and the evaluation of text-mining methods performance. Citation: OMIM.org: Online Mendelian Inheritance in Man, an online catalog of human genes and genetic disorders. Amberger, Joanna S., et al. Nucleic Acids Research. 2014. Comparative Toxicogenomics Database: update 2017. Davis, Allan Peter, et al. Nucleic Acids Research. 2016. DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants. Pinero, Janet, et al. Nucleic Acids Research. 2016.
 ## [heur_120.gr](heur/heur_120.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-8567 | 99636 | 927.6 | biology | string-db.org | 680198.protein.links.v11.0.txt.gr | 
+8567 | 99636 | 927.6 | biology | https://string-db.org/ | 680198.protein.links.v11.0.txt.gr | 
 
 **Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Streptomyces scabiei.
 ## [heur_121.gr](heur/heur_121.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-9570 | 131042 | 1112.9 | biology | snap.stanford.edu/biodata/ | ChG-InterDecagon_targets.gr | 
+9570 | 131042 | 1112.9 | biology | http://snap.stanford.edu/biodata/ | ChG-InterDecagon_targets.gr | 
 
 **Description:** This is a chemical-gene interaction network that contains information on interactions between genes (i.e., proteins encoded by genes) and small molecules. Nodes represent chemicals and genes, and edges represent biological interactions between them. For example, small molecules can activate or inhibit proteins, such as enzymes or receptors, and can target proteins by binding to them with different binding affinities. For instance, aspirin has relatively low binding affinities, whereas rofecoxib is specifically binding protein PTGS2. The chemical-gene interaction network is global and as such considers interactions anywhere in an organism. The network aggregates high-throughput experiments data, manually curated datasets, and the results of several prediction methods into a single global network of chemical-gene interactions.  References Modeling polypharmacy side effects with graph convolutional networks. Marinka Zitnik, Monica Agrawal, and Jure Leskovec. Bioinformatics. 2018. Presented at ISMB 2018
 ## [heur_122.gr](heur/heur_122.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-10020 | 380059 | 3545.0 | biology | thebiogrid.org | Costanzo2016-HighestConfidence.tab.gr | 
+10020 | 380059 | 3545.0 | biology | https://thebiogrid.org/ | Costanzo2016-HighestConfidence.tab.gr | 
 
 **Description:** This is a gene-interaction network containing ~90% of all genes in the budding yeast (Saccharomyces cerevisiae) and their high-confidence interactions. The vertices are genes and an edge represents the fact that individuals missing both genes are significantly less viable than if they miss only one gene. Data gathered by Costanzo, M. et al., A global genetic interaction network maps a wiring diagram of cellular function. Science, 353(6306), 2016. http://dx.doi.org/10.1126/science.aaf1420
 ## [heur_123.gr](heur/heur_123.gr)
@@ -739,7 +739,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_124.gr](heur/heur_124.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-10823 | 174977 | 1508.1 | biology | snap.stanford.edu/biodata/ | ChSe-Decagon_monopharmacy.gr | 
+10823 | 174977 | 1508.1 | biology | http://snap.stanford.edu/biodata/ | ChSe-Decagon_monopharmacy.gr | 
 
 **Description:** This is a drug side-effect association network that contains information on side effects caused by drugs that are on the U.S. market. Nodes represent drugs and side effects, and edges indicate recorded adverse drug reactions. The information is extracted from public documents, package inserts, drug labels, off-label associations between drugs and side effects, and adverse event reporting systems that collect reports from doctors, patients and drug companies.  References: Modeling polypharmacy side effects with graph convolutional networks. Marinka Zitnik, Monica Agrawal, and Jure Leskovec. Bioinformatics. 2018. Presented at ISMB 2018 Data-driven prediction of drug effects and interactions. Tatonetti, Nicholas P., et al. Science Translational Medicine. 2012.
 ## [heur_125.gr](heur/heur_125.gr)
@@ -769,31 +769,31 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_129.gr](heur/heur_129.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-12317 | 19327 | 4353.5 | infrastracture | github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_bus.gr | 
+12317 | 19327 | 4353.5 | infrastracture | https://github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip_bus.gr | 
 
 **Description:** Transit graphs contributed by Johannes Fichte for PACE 2017
 ## [heur_130.gr](heur/heur_130.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-12592 | 49660 | 466.5 | social | networkrepository.com | cit-DBLP.gr | 
+12592 | 49660 | 466.5 | social | http://networkrepository.com/ | cit-DBLP.gr | 
 
 **Description:** A citation network
 ## [heur_131.gr](heur/heur_131.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-13075 | 21047 | 4786.4 | infrastracture | github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip.gr | 
+13075 | 21047 | 4786.4 | infrastracture | https://github.com/daajoe/transit_graphs | GTFS_VBB_EndeApr_Dez2016.zip.gr | 
 
 **Description:** Transit graphs contributed by Johannes Fichte for PACE 2021
 ## [heur_132.gr](heur/heur_132.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-16046 | 121620 | 1214.9 | social | www-personal.umich.edu/~mejn/netdata/ | astro-ph_16706.gr | 
+16046 | 121620 | 1214.9 | social | http://www-personal.umich.edu/~mejn/netdata/ | astro-ph_16706.gr | 
 
 **Description:** weighted network of coauthorships between scientists posting preprints on the Astrophysics E-Print Archive between Jan 1, 1995 and December 31, 1999.
 ## [heur_133.gr](heur/heur_133.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-16264 | 48319 | 488.7 | social | www-personal.umich.edu/~mejn/netdata/ | cond-mat_16726.gr | 
+16264 | 48319 | 488.7 | social | http://www-personal.umich.edu/~mejn/netdata/ | cond-mat_16726.gr | 
 
 **Description:** weighted network of coauthorships between scientists posting preprints on the Condensed Matter E-Print Archive between Jan 1, 1995 and December 31, 1999. Please cite M. E. J. Newman, The structure of scientific collaboration networks, Proc. Natl. Acad. Sci. USA 98, 404-409 (2001).
 ## [heur_134.gr](heur/heur_134.gr)
@@ -811,7 +811,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_136.gr](heur/heur_136.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-19082 | 715620 | 6996.1 | biology | snap.stanford.edu/biodata/ | PP-Decagon_ppi.gr | 
+19082 | 715620 | 6996.1 | biology | http://snap.stanford.edu/biodata/ | PP-Decagon_ppi.gr | 
 
 **Description:** This is a protein-protein association network that includes direct (physical) protein-protein interactions, as well as indirect (functional) associations between human proteins. Nodes represent proteins and edges represent associations between them. The information is based on direct physical binding of proteins and many other, indirect ways of cooperation and mutual regulation between proteins. For example, proteins can influence each other's production and half-life, exchange reaction products, participate in signal relay mechanisms, or jointly contribute toward specific biological functions. Together, these direct and indirect interactions constitute 'functional associations', a useful operational umbrella-term for specific and functionally productive protein-protein interactions of any type.  References: Modeling polypharmacy side effects with graph convolutional networks. Marinka Zitnik, Monica Agrawal, and Jure Leskovec. Bioinformatics. 2018. Presented at ISMB 2018
 ## [heur_137.gr](heur/heur_137.gr)
@@ -823,19 +823,19 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_138.gr](heur/heur_138.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-20549 | 802760 | 8284.0 | biology | snap.stanford.edu/biodata/ | DF-Miner_miner-disease-function.gr | 
+20549 | 802760 | 8284.0 | biology | http://snap.stanford.edu/biodata/ | DF-Miner_miner-disease-function.gr | 
 
 **Description:** This is a disease-function association network that contains information on relationships between diseases and cellular functions. Cellular functions capture biological processes (e.g., pathways made up of the activities of multiple proteins such as cell communication), cellular components (e.g., components where gene products are active such as mitochondria), and molecular functions (e.g., molecular activities of gene products such as drug binding). Nodes represent diseases and functions, and edges indicate associations between them. The information is extracted based on shared disease-gene and function-gene associations. Citation: The Comparative Toxicogenomics Database: update 2017. Davis, Allan Peter, et al. Nucleic Acids Research. 2016.
 ## [heur_139.gr](heur/heur_139.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-21539 | 338643 | 3213.7 | biology | snap.stanford.edu/biodata/ | PP-Pathways_ppi_repaired_encoding.gr | 
+21539 | 338643 | 3213.7 | biology | http://snap.stanford.edu/biodata/ | PP-Pathways_ppi_repaired_encoding.gr | 
 
 **Description:** This is a protein-protein interaction network that contains physical interactions between proteins that are experimentally documented in humans, such as metabolic enzyme-coupled interactions and signaling interactions. Nodes represent human proteins and edges represent physical interaction between proteins in a human cell. The information is restricted to protein-protein interactions that are experimentally verified in wet biological laboratories. Reference: Large-scale analysis of disease pathways in the human interactome. Monica Agrawal, Marinka Zitnik, and Jure Leskovec. Pacific Symposium on Biocomputing. 2018.
 ## [heur_140.gr](heur/heur_140.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-22963 | 48436 | 439.7 | social | www-personal.umich.edu/~mejn/netdata/ | as-22july06_22963.gr | 
+22963 | 48436 | 439.7 | social | http://www-personal.umich.edu/~mejn/netdata/ | as-22july06_22963.gr | 
 
 **Description:** a symmetrized snapshot of the structure of the Internet at the level of autonomous systems, reconstructed from BGP tables posted by the University of Oregon Route Views Project. This snapshot was created by Mark Newman from data for July 22, 2006 and is not previously published.
 ## [heur_141.gr](heur/heur_141.gr)
@@ -859,7 +859,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_144.gr](heur/heur_144.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-26588 | 100120 | 953.5 | social | networkrepository.com | soc-epinions.gr | 
+26588 | 100120 | 953.5 | social | http://networkrepository.com/ | soc-epinions.gr | 
 
 **Description:** This is the trust network from the online social network Epinions. Nodes are users of Epinions and directed edges represent trust between the users
 ## [heur_145.gr](heur/heur_145.gr)
@@ -871,7 +871,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_146.gr](heur/heur_146.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-30460 | 120924 | 1273.1 | social | www-personal.umich.edu/~mejn/netdata/ | cond-mat-2003_31163.gr | 
+30460 | 120924 | 1273.1 | social | http://www-personal.umich.edu/~mejn/netdata/ | cond-mat-2003_31163.gr | 
 
 **Description:** updated network of coauthorships between scientists posting preprints on the Condensed Matter E-Print Archive. This version includes all preprints posted between Jan 1, 1995 and June 30, 2003. The largest component of this network, which contains 27519 scientists, has been used by several authors as a test-bed for community-finding algorithms for large networks; see for example J. Duch and A. Arenas, Phys. Rev. E 72, 027104 (2005). These data can be cited as M. E. J. Newman, Proc. Natl. Acad. Sci. USA 98, 404-409 (2001).
 ## [heur_147.gr](heur/heur_147.gr)
@@ -901,7 +901,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_151.gr](heur/heur_151.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-39577 | 176646 | 1886.5 | social | www-personal.umich.edu/~mejn/netdata/ | cond-mat-2005_40421.gr | 
+39577 | 176646 | 1886.5 | social | http://www-personal.umich.edu/~mejn/netdata/ | cond-mat-2005_40421.gr | 
 
 **Description:**  updated network of coauthorships between scientists posting preprints on the Condensed Matter E-Print Archive. This version includes all preprints posted between Jan 1, 1995 and March 31, 2005. Please cite M. E. J. Newman, Proc. Natl. Acad. Sci. USA 98, 404-409 (2001).
 ## [heur_152.gr](heur/heur_152.gr)
@@ -931,7 +931,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_156.gr](heur/heur_156.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-46028 | 106520 | 1156.4 | biology | snap.stanford.edu/biodata/ | FF-Miner_miner-func-func.gr | 
+46028 | 106520 | 1156.4 | biology | http://snap.stanford.edu/biodata/ | FF-Miner_miner-func-func.gr | 
 
 **Description:** This is a biological function network that classifies biological functions into a hierarchy. The hierarchy is specified by Gene Ontology that describes biological functions and relationships between them. Biological functions capture biological processes (i.e., pathways and larger processes made up of the activities of multiple gene products), cellular components (i.e., components/organelles where gene products are active), and molecular functions (i.e., molecular activities of gene products).  The information is extracted from Gene Ontology, which defines the universe of concepts relating to biological functions, and how these functions are related to each other. References: Gene Ontology: tool for the unification of biology. Ashburner, Michael, et al. Nature Genetics. 2000.
 ## [heur_157.gr](heur/heur_157.gr)
@@ -943,7 +943,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_158.gr](heur/heur_158.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-47538 | 222887 | 2466.3 | social | networkrepository.com | soc-gemsec-HU.gr | 
+47538 | 222887 | 2466.3 | social | http://networkrepository.com/ | soc-gemsec-HU.gr | 
 
 **Description:** The data was collected from the music streaming service Deezer (November 2017). These datasets represent friendship networks of users from 3 European countries. Nodes represent the users and edges are the mutual friendships. We reindexed the nodes in order to achieve a certain level of anonimity. The edge files contain the edges - nodes are indexed from 0. The json files contain the genre preferences of users - each key is a user id, the genres loved are given as lists. Genre notations are consistent across users. In each dataset users could like 84 distinct genres. Liked genre lists were compiled based on the liked song lists. The countries included are Romania, Croatia and Hungary.
 ## [heur_159.gr](heur/heur_159.gr)
@@ -1057,7 +1057,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_177.gr](heur/heur_177.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-125235 | 125234 | 1514.8 | biology | snap.stanford.edu/biodata/ | GP-Miner_miner-gene-protein.gr | 
+125235 | 125234 | 1514.8 | biology | http://snap.stanford.edu/biodata/ | GP-Miner_miner-gene-protein.gr | 
 
 **Description:** This is protein-gene association network that contais information on genes and proteins encoded by these genes. Nodes represent genes and proteins, and edges protein-coding relationships.
 ## [heur_178.gr](heur/heur_178.gr)
@@ -1105,13 +1105,13 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_185.gr](heur/heur_185.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-226413 | 716460 | 8860.1 | social | networkrepository.com | ca-dblp-2010.gr | 
+226413 | 716460 | 8860.1 | social | http://networkrepository.com/ | ca-dblp-2010.gr | 
 
 **Description:** dblp 2010 collaboration network
 ## [heur_186.gr](heur/heur_186.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-265009 | 380112 | 4883.6 | social | konect.cc | email-EuAll.gr | 
+265009 | 380112 | 4883.6 | social | http://konect.cc/ | email-EuAll.gr | 
 
 **Description:** Email network of a large European Research Institution
 ## [heur_187.gr](heur/heur_187.gr)
@@ -1123,7 +1123,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_188.gr](heur/heur_188.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-317080 | 1049866 | 13595.0 | social | konect.cc | dblp-coathors.gr | 
+317080 | 1049866 | 13595.0 | social | http://konect.cc/ | dblp-coathors.gr | 
 
 **Description:** This is the co-authorship network of the DBLP computer science bibliography. Nodes are authors and an undirected edge between two nodes exists if the corresponding authors have published at least one paper together.
 ## [heur_189.gr](heur/heur_189.gr)
@@ -1141,7 +1141,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
 ## [heur_191.gr](heur/heur_191.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
-332689 | 820644 | 10169.8 | social | networkrepository.com | ca-MathSciNet.gr | 
+332689 | 820644 | 10169.8 | social | http://networkrepository.com/ | ca-MathSciNet.gr | 
 
 **Description:** MathSciNet collaboration network
 ## [heur_192.gr](heur/heur_192.gr)

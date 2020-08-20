@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: thebiogrid.org 
+c ORIGIN: https://thebiogrid.org/ 
 c DESCRIPTION: This is a gene-interaction network of Toxoplasma gondii, the most prevalent parasite in developed countries. 
 p tdp 75 118
 23 51

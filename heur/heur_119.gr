@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a disease-gene association network that contains information on disease-associated genes. Nodes represent genes and diseases and edges represent associations between them. The information about genes and variants involved in human diseases can be used for different research purposes, including the investigation of molecular mechanisms of species diseases and their comorbidities, the analysis of the properties of disease genes, the generation of hypotheses on drug therapeutic action and drug adverse effects, the validation of computationally predicted disease genes, and the evaluation of text-mining methods performance. Citation: OMIM.org: Online Mendelian Inheritance in Man, an online catalog of human genes and genetic disorders. Amberger, Joanna S., et al. Nucleic Acids Research. 2014. Comparative Toxicogenomics Database: update 2017. Davis, Allan Peter, et al. Nucleic Acids Research. 2016. DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants. Pinero, Janet, et al. Nucleic Acids Research. 2016. 
 p tdp 7813 21357
 1 2

@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a chemical-gene interaction network that contains information on interactions between genes (i.e., proteins encoded by genes) and small molecules. Nodes represent chemicals and genes, and edges represent biological interactions between them. For example, small molecules can activate or inhibit proteins, such as enzymes or receptors, and can target proteins by binding to them with different binding affinities. For instance, aspirin has relatively low binding affinities, whereas rofecoxib is specifically binding protein PTGS2. The chemical-gene interaction network is global and as such considers interactions anywhere in an organism. The network aggregates high-throughput experiments data, manually curated datasets, and the results of several prediction methods into a single global network of chemical-gene interactions.  References Modeling polypharmacy side effects with graph convolutional networks. Marinka Zitnik, Monica Agrawal, and Jure Leskovec. Bioinformatics. 2018. Presented at ISMB 2018 
 p tdp 9570 131042
 531 681

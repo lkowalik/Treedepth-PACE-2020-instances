@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: www.genome.jp/kegg/ 
+c ORIGIN: http://www.genome.jp/kegg/ 
 c DESCRIPTION: This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mcf01100 Metabolic pathways - Macaca fascicularis (crab-eating macaque)". 
 p tdp 858 1078
 395 396

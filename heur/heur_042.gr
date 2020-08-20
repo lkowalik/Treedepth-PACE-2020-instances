@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ 
+c ORIGIN: http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ 
 c DESCRIPTION: Class  scheduling graphs.  Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski 
 p tdp 353 14617
 152 282

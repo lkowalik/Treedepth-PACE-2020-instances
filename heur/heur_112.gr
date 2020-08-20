@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: networkrepository.com 
+c ORIGIN: http://networkrepository.com/ 
 c DESCRIPTION: The dataset contains all administrator elections and vote history data based on the latest complete dump of Wikipedia page edit history (from January 3 2008). 
 p tdp 7115 100777
 2814 3407

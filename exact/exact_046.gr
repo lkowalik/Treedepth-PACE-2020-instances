@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: networkrepository.com 
+c ORIGIN: http://networkrepository.com/ 
 c DESCRIPTION: ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004). Refernces: K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. Kriegel. Protein function prediction via graph kernels. Bioinformatics, 21(Suppl 1):i47–i56, Jun 2005. I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. Brenda, the enzyme database: updates and major new developments. Nucleic Acids Research, 32D:431–433, 2013 
 p tdp 41 76
 1 2

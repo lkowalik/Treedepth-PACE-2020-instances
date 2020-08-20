@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: computer science 
-c ORIGIN: archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ 
+c ORIGIN: http://archive.dimacs.rutgers.edu/pub/challenge/graph/benchmarks/color/ 
 c DESCRIPTION: Problem based on register allocation for variables in real codes. Used in DIMACS Coloring Challenge 1992-1993. Contributor: Gary Lewandowski 
 p tdp 157 3541
 32 41

@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: networkrepository.com 
+c ORIGIN: http://networkrepository.com/ 
 c DESCRIPTION: This is the trust network from the online social network Epinions. Nodes are users of Epinions and directed edges represent trust between the users 
 p tdp 26588 100120
 1 2

@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome. 
 p tdp 6806 366239
 1 2

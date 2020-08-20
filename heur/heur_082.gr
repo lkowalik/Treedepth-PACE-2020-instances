@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: konect.cc 
+c ORIGIN: http://konect.cc/ 
 c DESCRIPTION: This directed network contains sent messages between the users of an online community of students from the University of California, Irvine. A node represents a user. A directed edge represents a sent message. Multiple edges denote multiple messages. 
 p tdp 1900 13842
 581 638

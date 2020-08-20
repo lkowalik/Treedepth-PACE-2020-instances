@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: thebiogrid.org 
+c ORIGIN: https://thebiogrid.org/ 
 c DESCRIPTION: This is a protein-interaction network containing interactions determined using tandem-affinity purification. Data gathered by Cloutier, P. et al., R2tp/prefoldin-like component ruvbl1/ruvbl2 directly interacts with znhit2 to regulate assembly of u5 small nuclear ribonucleoprotein. Nature Communications, 8(1), 15615, 2007. http://dx.doi.org/10.1038/ncomms15615 
 p tdp 300 508
 105 232

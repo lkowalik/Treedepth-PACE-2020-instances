@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: konect.cc 
+c ORIGIN: http://konect.cc/ 
 c DESCRIPTION: This directed network contains friendships between boys in a small highschool in Illinois. Each boy was asked once in the fall of 1957 and the spring of 1958. This dataset aggregates the results from both dates. A node represents a boy and an edge between two boys shows that the left boy chose the right boy as a friend. The edge weights show how often that happened. As a boy could choose the same boy twice edge values from 1 to 2 are allowed. 
 p tdp 70 274
 1 49

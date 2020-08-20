@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: infrastracture 
-c ORIGIN: gitlab.com/rvb/mwcarp-ob 
+c ORIGIN: https://gitlab.com/rvb/mwcarp-ob 
 c DESCRIPTION: a road network from the Ob generator by René van Bevern, Christian Komusiewicz, and Manuel Sorge (cities that are divided into several components by a river) 
 p tdp 195 342
 10 26

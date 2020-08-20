@@ -1,6 +1,6 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: social 
-c ORIGIN: networkrepository.com 
+c ORIGIN: http://networkrepository.com/ 
 c DESCRIPTION: an animal social network. A machine learning algorithm was applied to identify clusters of detections on feeders. Next, the network was generated based on patterns of co-occurrence by individuals in the same feeding events. Asociations between birds were defined using the simple ratio index. From: Adelman, James S., et al. "Feeder use predicts both acquisition and transmission of a contagious pathogen in a North American songbird." Proc. R. Soc. B. Vol. 282. No. 1815. The Royal Society, 2015. 
 p tdp 111 1029
 22 57

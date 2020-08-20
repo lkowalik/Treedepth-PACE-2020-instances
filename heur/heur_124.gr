@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a drug side-effect association network that contains information on side effects caused by drugs that are on the U.S. market. Nodes represent drugs and side effects, and edges indicate recorded adverse drug reactions. The information is extracted from public documents, package inserts, drug labels, off-label associations between drugs and side effects, and adverse event reporting systems that collect reports from doctors, patients and drug companies.  References: Modeling polypharmacy side effects with graph convolutional networks. Marinka Zitnik, Monica Agrawal, and Jure Leskovec. Bioinformatics. 2018. Presented at ISMB 2018 Data-driven prediction of drug effects and interactions. Tatonetti, Nicholas P., et al. Science Translational Medicine. 2012. 
 p tdp 10823 174977
 1 2

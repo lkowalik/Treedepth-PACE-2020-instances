@@ -1,6 +1,6 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
-c ORIGIN: snap.stanford.edu/biodata/ 
+c ORIGIN: http://snap.stanford.edu/biodata/ 
 c DESCRIPTION: This is a network of interactions betweeen drugs, which are approved by the U.S. Food and Drug Administration. Nodes represent drugs and edges represent drug interactions. Drug-drug interactions occur when the pharmacologic effect of a one drug is altered by the action of another drug, leading to unpredictable clinical effects such as adverse drug reactions. When several drugs are administered together, there might be a greater possibility of adverse drug reactions as one drug can increase or decrease the effect of another drug. It is thus crucial to identify drug-drug interactions, especially during drug development, when one needs to identify interactions between a new candidate drug and drugs that are already on the market. Drug-drug interactions are extracted from drug labels and scientific publications.  References: DrugBank 5.0: a major update to the DrugBank database for 2018. Wishart, David S., et al. Nucleic Acids Research. 2017. 
 p tdp 1515 48517
 176 465
