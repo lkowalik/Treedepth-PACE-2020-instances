@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the genes of the hedgehog signalling pathway of Drosophila melanogaster. Reference: Gonz\'alez, Aitor, Chaouiya, C., & Thieffry, D. (2008). Logical modelling of the role of the hh pathway in the patterning of the drosophila wing disc. Bioinformatics, 24(16), 234–240. http://dx.doi.org/10.1093/bioinformatics/btn266 
 p tdp 28 57
 1 3
 1 26

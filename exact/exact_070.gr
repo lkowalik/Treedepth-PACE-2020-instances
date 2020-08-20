@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in survival signaling in large granular lymphocyte leukemia. Reference: Zhang, R., Shah, M. V., Yang, J., Nyland, S. B., Liu, X., Yun, J. K., Albert, R\'eka, … (2008). Network model of survival signaling in large granular lymphocyte leukemia. Proceedings of the National Academy of Sciences, 105(42), 16308–16313. 
 p tdp 60 176
 26 47
 26 32

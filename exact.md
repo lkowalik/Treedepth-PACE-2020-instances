@@ -19,7 +19,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 17 | 62 | 0.3 | biology | ginsim.org/models_repository | MAPK_red1_19062013.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the most crucial components of the Mitogen-Activated Protein Kinase (MAPK) network in bladder cancer cells. Reference: Grieco, L., Calzone, L., Bernard-Pierrot, Isabelle, Radvanyi, Fran\c cois, Kahn-Perl\`es, Brigitte, & Thieffry, D. (2013). Integrative modelling of the influence of mapk network on cancer cell fate decision. PLOS Computational Biology, 9(10), 1003286. http://dx.doi.org/10.1371/journal.pcbi.1003286
 
 ![](vis/exact_003.png?raw=true)
 ## [exact_004.gr](exact/exact_004.gr)
@@ -27,7 +27,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 18 | 18 | 0.1 | biology | ginsim.org/models_repository | VEGF_Pathway_12Jun2013_0.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the Drosophila VEGF signalling pathway. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E
 
 ![](vis/exact_004.png?raw=true)
 ## [exact_005.gr](exact/exact_005.gr)
@@ -83,7 +83,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 23 | 24 | 0.1 | biology | ginsim.org/models_repository | FGF_Pathway_12Jun2013.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the nine key signalling pathways detected in Drosophila and recurrently used in metazoan development. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E
 
 ![](vis/exact_011.png?raw=true)
 ## [exact_012.gr](exact/exact_012.gr)
@@ -115,7 +115,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 26 | 30 | 0.2 | biology | ginsim.org/models_repository | Wg_Pathway_11Jun2013.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the Drosophila Wg signalling pathway. Reference: Mbodj, A., Junion, G., Brun, C., Furlong, E. E. M., & Thieffry, D. (2013). Logical modelling of drosophila signalling pathways. Molecular BioSystems, 9(9), 2248–2258. http://dx.doi.org/10.1039/C3MB70187E
 
 ![](vis/exact_015.png?raw=true)
 ## [exact_016.gr](exact/exact_016.gr)
@@ -131,7 +131,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 26 | 64 | 0.3 | biology | ginsim.org/models_repository | ModelT2DM_0.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This is a network of the signaling pathways that control S-phase entry and a specific type of senescence called geroconversion. Reference: Verlingue, L., Dugourd, Aur\'elien, Stoll, G., Barillot, E., Calzone, L., & Londo\~no-Vallejo, Arturo (2016). A comprehensive approach to the molecular determinants of lifespan using a boolean model of geroconversion. Aging Cell, 15(6), 1018–1026. http://dx.doi.org/10.1111/acel.12504
 
 ![](vis/exact_017.png?raw=true)
 ## [exact_018.gr](exact/exact_018.gr)
@@ -139,7 +139,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 27 | 87 | 0.4 | biology | ginsim.org/models_repository | core_engine_budding_yeast_CC.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the main documented interactions in budding yeast between core regulators of the cell cycle (Cdk/cyclins, APC, Cdk inhibitors). Reference: Faur\'e, Adrien, Naldi, Aur\'elien, Lopez, F., Chaouiya, C., Ciliberto, A., & Thieffry, D. (2009). Modular logical modelling of the budding yeast cell cycle. Molecular BioSystems, 5(12), 1787–1796. http://dx.doi.org/10.1039/B910101M
 
 ![](vis/exact_018.png?raw=true)
 ## [exact_019.gr](exact/exact_019.gr)
@@ -147,7 +147,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 28 | 57 | 0.3 | biology | ginsim.org/models_repository | ap_boundary.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the genes of the hedgehog signalling pathway of Drosophila melanogaster. Reference: Gonz\'alez, Aitor, Chaouiya, C., & Thieffry, D. (2008). Logical modelling of the role of the hh pathway in the patterning of the drosophila wing disc. Bioinformatics, 24(16), 234–240. http://dx.doi.org/10.1093/bioinformatics/btn266
 
 ![](vis/exact_019.png?raw=true)
 ## [exact_020.gr](exact/exact_020.gr)
@@ -171,7 +171,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 29 | 47 | 0.3 | biology | www.genome.jp/kegg/ | myb05169.kgml.gr-5.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "myb05160 Hepatitis C - Myotis brandtii (Brandt's bat)".
 
 ![](vis/exact_022.png?raw=true)
 ## [exact_023.gr](exact/exact_023.gr)
@@ -211,7 +211,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 30 | 70 | 0.4 | biology | ginsim.org/models_repository | Bladder_Model.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains human genes involved in tumorigenesis of bladder cells. Reference: Remy, E., Rebouissou, S., Chaouiya, C., Zinovyev, A., Radvanyi, Fran\c cois, & Calzone, L. (2015). A modeling approach to explain mutually exclusive and co-occurring genetic alterations in bladder tumorigenesis. Cancer Research, 75(19), 4042–4052. http://dx.doi.org/10.1158/0008-5472.CAN-15-0602
 
 ![](vis/exact_027.png?raw=true)
 ## [exact_028.gr](exact/exact_028.gr)
@@ -235,7 +235,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 32 | 137 | 0.8 | biology | ginsim.org/models_repository | SuppMat_Model_Master_Model.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes in the molecular pathways enabling tumour cell invasion and migration. Reference: Cohen, D. P. A., Martignetti, L., Robine, S., Barillot, E., Zinovyev, A., & Calzone, L. (2015). Mathematical modelling of molecular pathways enabling tumour cell invasion and migration. PLOS Computational Biology, 11(11), 1004571. http://dx.doi.org/10.1371/journal.pcbi.1004571
 
 ![](vis/exact_030.png?raw=true)
 ## [exact_031.gr](exact/exact_031.gr)
@@ -243,7 +243,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 33 | 78 | 0.4 | biology | ginsim.org/models_repository | Collombet_model_Bcell_Macrophages_PNAS_170215.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in macrophage differentiation. Reference: Collombet, S., van Oevelen, C., Ortega, J. L. S., Abou-Jaoud\'e, Wassim, Stefano, B. D., Thomas-Chollier, Morgane, Graf, T., … (2017). Logical modeling of lymphoid and myeloid cell specification and transdifferentiation. Proceedings of the National Academy of Sciences, 114(23), 5792–5799. http://dx.doi.org/10.1073/pnas.1610622114
 
 ![](vis/exact_031.png?raw=true)
 ## [exact_032.gr](exact/exact_032.gr)
@@ -259,7 +259,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 34 | 82 | 0.4 | biology | ginsim.org/models_repository | Th_differentiation_reduced_model.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in control of Th1/Th2/Th17/Treg cells differentiation. Reference: Naldi A, Carneiro J, Chaouiya C, Thieffry D (2010). Diversity and plasticity of th cell types predicted from regulatory network modelling. PLOS Computational Biology, 6(9), 1000912. http://dx.doi.org/10.1371/journal.pcbi.1000912
 
 ![](vis/exact_033.png?raw=true)
 ## [exact_034.gr](exact/exact_034.gr)
@@ -291,7 +291,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 39 | 48 | 0.3 | biology | www.genome.jp/kegg/ | sasa04530.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "sasa04530 Tight junction - Salmo salar (Atlantic salmon)".
 
 ![](vis/exact_037.png?raw=true)
 ## [exact_038.gr](exact/exact_038.gr)
@@ -299,7 +299,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 39 | 62 | 0.3 | biology | www.genome.jp/kegg/ | mun00071.kgml.gr-2.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mun00071 Fatty acid degradation - Meriones unguiculatus (Mongolian gerbil)".
 
 ![](vis/exact_038.png?raw=true)
 ## [exact_039.gr](exact/exact_039.gr)
@@ -307,7 +307,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 40 | 54 | 0.3 | biology | ginsim.org/models_repository | TCRsig40.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the TCR signalling pathway. Reference: Klamt, S., Saez-Rodriguez, Julio, Lindquist, J. A., Simeoni, L., & Gilles, E. D. (2006). A methodology for the structural and functional analysis of signaling and regulatory networks. BMC Bioinformatics, 7(1), 1–26. http://dx.doi.org/10.1186/1471-2105-7-56
 
 ![](vis/exact_039.png?raw=true)
 ## [exact_040.gr](exact/exact_040.gr)
@@ -339,7 +339,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 40 | 129 | 0.7 | biology | ginsim.org/models_repository | TCR-REDOX-METABOLISM_2019-07-26_reduced_0.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network captures the interplay between antigen recognition with reactive oxygen species and metabolic status in T cell responses. S\'anchez-Villanueva, Jos\'e Antonio, Rodr\'iguez-Jorge, Otoniel, Ram\'irez-Pliego, Oscar, Salgado, G. R., Abou-Jaoud\'e, Wassim,Hernandez, C\'eline, Naldi, Aur\'elien, … (2019). Contribution of ros and metabolic status to neonatal and adult cd8+ t cell activation. PLOS ONE, 14(12), 0226388. http://dx.doi.org/10.1371/journal.pone.0226388
 
 ![](vis/exact_043.png?raw=true)
 ## [exact_044.gr](exact/exact_044.gr)
@@ -387,7 +387,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 42 | 73 | 0.4 | biology | ginsim.org/models_repository | RodriguezJorge_TLR5_Signalling_BooleanModel_17Jul2018.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 
 ![](vis/exact_049.png?raw=true)
 ## [exact_050.gr](exact/exact_050.gr)
@@ -419,7 +419,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 46 | 63 | 0.3 | biology | www.genome.jp/kegg/ | mun04621.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mun04621 NOD-like receptor signaling pathway - Meriones unguiculatus (Mongolian gerbil)".
 
 ![](vis/exact_053.png?raw=true)
 ## [exact_054.gr](exact/exact_054.gr)
@@ -427,7 +427,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 47 | 67 | 0.4 | biology | ginsim.org/models_repository | Mast_cell_activation_Annotated_19oct2014.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains a molecular map for the FceRI and FcgRIIb signalling pathways, which play a key role in mast cell activation in mammals. Reference: Niarakis, A., Bounab, Y., Grieco, L., Roncagalli, R., Hesse, A., Garin, J\'er\^ome, Malissen, B., … (2014). Computational modeling of the main signaling pathways involved in mast cell activation. In M. Daeron, & F. Nimmerjahn (Eds.), Fc Receptors (pp. 69–93). Cham: Springer International Publishing.
 
 ![](vis/exact_054.png?raw=true)
 ## [exact_055.gr](exact/exact_055.gr)
@@ -443,7 +443,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 50 | 59 | 0.3 | biology | www.genome.jp/kegg/ | fpg00140.kgml.gr-4.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "fpg00140 Steroid hormone biosynthesis - Falco peregrinus (peregrine falcon)".
 
 ![](vis/exact_056.png?raw=true)
 ## [exact_057.gr](exact/exact_057.gr)
@@ -483,7 +483,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 53 | 100 | 0.6 | biology | ginsim.org/models_repository | MAPK_large_19june2013.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains the most crucial components of the Mitogen-Activated Protein Kinase (MAPK) network in bladder cancer cells. Reference: Grieco, L., Calzone, L., Bernard-Pierrot, Isabelle, Radvanyi, Fran\c cois, Kahn-Perl\`es, Brigitte, & Thieffry, D. (2013). Integrative modelling of the influence of mapk network on cancer cell fate decision. PLOS Computational Biology, 9(10), 1003286. http://dx.doi.org/10.1371/journal.pcbi.1003286
 
 ![](vis/exact_061.png?raw=true)
 ## [exact_062.gr](exact/exact_062.gr)
@@ -523,7 +523,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 59 | 154 | 0.9 | biology | www.genome.jp/kegg/ | myi00240.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "myi00240 Pyrimidine metabolism - Mizuhopecten yessoensis (Yesso scallop)".
 
 ![](vis/exact_066.png?raw=true)
 ## [exact_067.gr](exact/exact_067.gr)
@@ -555,7 +555,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 60 | 176 | 1.0 | biology | ginsim.org/models_repository | T_LGL.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in survival signaling in large granular lymphocyte leukemia. Reference: Zhang, R., Shah, M. V., Yang, J., Nyland, S. B., Liu, X., Yun, J. K., Albert, R\'eka, … (2008). Network model of survival signaling in large granular lymphocyte leukemia. Proceedings of the National Academy of Sciences, 105(42), 16308–16313.
 
 ![](vis/exact_070.png?raw=true)
 ## [exact_071.gr](exact/exact_071.gr)
@@ -563,7 +563,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 61 | 151 | 0.8 | biology | www.genome.jp/kegg/ | ray00061.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ray00051 Fructose and mannose metabolism - Rousettus aegyptiacus (Egyptian rousette)".
 
 ![](vis/exact_071.png?raw=true)
 ## [exact_072.gr](exact/exact_072.gr)
@@ -603,7 +603,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 65 | 128 | 0.7 | biology | ginsim.org/models_repository | Th_differentiation_full_annotated_model.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in control of Th1/Th2/Th17/Treg cells differentiation. Reference: Naldi A, Carneiro J, Chaouiya C, Thieffry D (2010). Diversity and plasticity of th cell types predicted from regulatory network modelling. PLOS Computational Biology, 6(9), 1000912. http://dx.doi.org/10.1371/journal.pcbi.1000912
 
 ![](vis/exact_076.png?raw=true)
 ## [exact_077.gr](exact/exact_077.gr)
@@ -643,7 +643,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 70 | 79 | 0.4 | biology | www.genome.jp/kegg/ | psq01230.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "psq01230 Biosynthesis of amino acids - Punctularia strigosozonata".
 
 ![](vis/exact_081.png?raw=true)
 ## [exact_082.gr](exact/exact_082.gr)
@@ -675,7 +675,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 72 | 158 | 0.9 | biology | ginsim.org/models_repository | SP_6cells.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes related to the segment polarity genes engrailed and wingless in fly embryos. S\'anchez, Lucas, Chaouiya, C., & Thieffry, D. (2002). Segmenting the fly embryo: logical analysis of the role of the segment polarity cross-regulatory module. International Journal of Developmental Biology, 52(8), 1059–1075. http://dx.doi.org/10.1387/ijdb.072439ls
 
 ![](vis/exact_085.png?raw=true)
 ## [exact_086.gr](exact/exact_086.gr)
@@ -683,7 +683,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 75 | 118 | 0.6 | biology | thebiogrid.org | Toxoplasma_gondii-Sibley2017.gr | 
 
-**Description:** nan
+**Description:** This is a gene-interaction network of Toxoplasma gondii, the most prevalent parasite in developed countries.
 
 ![](vis/exact_086.png?raw=true)
 ## [exact_087.gr](exact/exact_087.gr)
@@ -699,7 +699,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 77 | 146 | 0.8 | biology | ginsim.org/models_repository | Flobak_FullModel_S2_Dataset.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network accounts for cell fate decision network in the AGS gastric cancer cell line. Reference: Flobak, \AAsmund, Baudot, Ana\"is, Remy, E., Thommesen, L., Thieffry, D., Kuiper, M., & L\aegreid, Astrid (2015). Discovery of drug synergies in gastric cancer cells predicted by logical modeling. PLOS Computational Biology, 11(8), 1004426. http://dx.doi.org/10.1371/journal.pcbi.1004426
 
 ![](vis/exact_088.png?raw=true)
 ## [exact_089.gr](exact/exact_089.gr)
@@ -763,7 +763,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 84 | 339 | 1.9 | biology | www.genome.jp/kegg/ | ncc00230.kgml.gr-1.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ncc00230 Purine metabolism - Notothenia coriiceps (black rockcod)".
 
 ![](vis/exact_096.png?raw=true)
 ## [exact_097.gr](exact/exact_097.gr)
@@ -883,7 +883,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 100 | 384 | 2.3 | biology | www.genome.jp/kegg/ | onl00230.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "onl00230 Purine metabolism - Oreochromis niloticus (Nile tilapia)".
 
 ![](vis/exact_111.png?raw=true)
 ## [exact_112.gr](exact/exact_112.gr)
@@ -899,7 +899,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 102 | 113 | 0.6 | biology | www.genome.jp/kegg/ | rbb04024.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "rbb04024 cAMP signaling pathway - Rhinopithecus bieti (black snub-nosed monkey)".
 
 ![](vis/exact_113.png?raw=true)
 ## [exact_114.gr](exact/exact_114.gr)
@@ -907,7 +907,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 102 | 142 | 0.8 | biology | www.genome.jp/kegg/ | nni04010.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "nni04010 MAPK signaling pathway - Nipponia nippon (crested ibis)".
 
 ![](vis/exact_114.png?raw=true)
 ## [exact_115.gr](exact/exact_115.gr)
@@ -947,7 +947,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 110 | 223 | 1.3 | biology | ginsim.org/models_repository | RodriguezJorge_TCR_Signalling_BooleanModel_17Jul2018.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 
 ![](vis/exact_119.png?raw=true)
 ## [exact_120.gr](exact/exact_120.gr)
@@ -995,7 +995,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 115 | 161 | 1.0 | biology | www.genome.jp/kegg/ | amj04010.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "amj04010 MAPK signaling pathway - Alligator mississippiensis (American alligator)".
 
 ![](vis/exact_125.png?raw=true)
 ## [exact_126.gr](exact/exact_126.gr)
@@ -1003,7 +1003,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 117 | 146 | 0.9 | biology | www.genome.jp/kegg/ | mrt01130.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of a map of pathways of Malassezia restricta.
 
 ![](vis/exact_126.png?raw=true)
 ## [exact_127.gr](exact/exact_127.gr)
@@ -1011,7 +1011,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 119 | 147 | 0.9 | biology | www.genome.jp/kegg/ | mmu05200.kgml.gr-2.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mmu05200 Pathways in cancer - Mus musculus (mouse)".
 
 ![](vis/exact_127.png?raw=true)
 ## [exact_128.gr](exact/exact_128.gr)
@@ -1107,7 +1107,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 128 | 266 | 1.7 | biology | ginsim.org/models_repository | RodriguezJorge_Merged_TCR_TLR5_Signalling_BooleanModel_15Jul2018.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 
 ![](vis/exact_139.png?raw=true)
 ## [exact_140.gr](exact/exact_140.gr)
@@ -1131,7 +1131,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 133 | 167 | 1.0 | biology | www.genome.jp/kegg/ | cne01130.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of a map of pathways of Cryptococcus neoformans var. neoformans JEC21.
 
 ![](vis/exact_142.png?raw=true)
 ## [exact_143.gr](exact/exact_143.gr)
@@ -1275,7 +1275,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 167 | 213 | 1.4 | biology | www.genome.jp/kegg/ | mrt01110.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mrt01110 Biosynthesis of secondary metabolites - Malassezia restricta".
 
 ![](vis/exact_160.png?raw=true)
 ## [exact_161.gr](exact/exact_161.gr)
@@ -1411,7 +1411,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 204 | 248 | 1.6 | biology | www.genome.jp/kegg/ | olu01110.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "olu01110 Biosynthesis of secondary metabolites - Ostreococcus lucimarinus".
 
 ![](vis/exact_177.png?raw=true)
 ## [exact_178.gr](exact/exact_178.gr)
@@ -1443,7 +1443,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 223 | 265 | 1.8 | biology | www.genome.jp/kegg/ | bpg01110.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "bpg01110 Biosynthesis of secondary metabolites - Bathycoccus prasinos".
 
 ![](vis/exact_181.png?raw=true)
 ## [exact_182.gr](exact/exact_182.gr)
@@ -1467,7 +1467,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 244 | 290 | 2.0 | biology | www.genome.jp/kegg/ | mpp01110.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mpp01110 Biosynthesis of secondary metabolites - Micromonas pusilla".
 
 ![](vis/exact_184.png?raw=true)
 ## [exact_185.gr](exact/exact_185.gr)
@@ -1499,7 +1499,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 300 | 508 | 3.3 | biology | thebiogrid.org | S1_Table.gr | 
 
-**Description:** nan
+**Description:** This is a protein-interaction network containing interactions determined using tandem-affinity purification. Data gathered by Cloutier, P. et al., R2tp/prefoldin-like component ruvbl1/ruvbl2 directly interacts with znhit2 to regulate assembly of u5 small nuclear ribonucleoprotein. Nature Communications, 8(1), 15615, 2007. http://dx.doi.org/10.1038/ncomms15615
 
 ![](vis/exact_188.png?raw=true)
 ## [exact_189.gr](exact/exact_189.gr)
@@ -1571,7 +1571,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 469 | 614 | 4.4 | biology | www.genome.jp/kegg/ | uma01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "uma01100 Metabolic pathways - Ustilago maydis".
 
 ![](vis/exact_197.png?raw=true)
 ## [exact_198.gr](exact/exact_198.gr)
@@ -1587,7 +1587,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 491 | 645 | 4.7 | biology | thebiogrid.org | Bandyopadhyay2010.gr | 
 
-**Description:** nan
+**Description:** This is a protein-interaction network between human mitogen-activated protein kinase (MAPK)-related proteins and other cellular machinery. The nodes are the proteins and edges represent that the proteins bind to each other as detected by using "yeast two-hybrid screening". Data gathered by Bandyopadhyay, S. et al., A human map kinase interactome. Nature Methods, 7(10), 801–805, 2010. http://dx.doi.org/10.1038/nmeth.1506
 
 ![](vis/exact_199.png?raw=true)
 ## [exact_200.gr](exact/exact_200.gr)

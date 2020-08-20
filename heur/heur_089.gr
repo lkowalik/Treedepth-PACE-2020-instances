@@ -1,7 +1,7 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: thebiogrid.org 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a protein-interaction network containing high-confidence interactions that are corroborated by multiple methods. Compiled by Batada, N. N. et al., Still stratus not altocumulus: further evidence against the date/party hub distinction. PLOS Biology, 5(6), 154, 2007. http://dx.doi.org/10.1371/journal.pbio.0050154 
 p tdp 2538 6538
 102 595
 102 748

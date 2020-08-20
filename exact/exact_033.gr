@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in control of Th1/Th2/Th17/Treg cells differentiation. Reference: Naldi A, Carneiro J, Chaouiya C, Thieffry D (2010). Diversity and plasticity of th cell types predicted from regulatory network modelling. PLOS Computational Biology, 6(9), 1000912. http://dx.doi.org/10.1371/journal.pcbi.1000912 
 p tdp 34 82
 4 7
 4 12

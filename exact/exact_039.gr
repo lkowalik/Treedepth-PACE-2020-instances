@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the TCR signalling pathway. Reference: Klamt, S., Saez-Rodriguez, Julio, Lindquist, J. A., Simeoni, L., & Gilles, E. D. (2006). A methodology for the structural and functional analysis of signaling and regulatory networks. BMC Bioinformatics, 7(1), 1–26. http://dx.doi.org/10.1186/1471-2105-7-56 
 p tdp 40 54
 4 7
 4 37

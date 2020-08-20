@@ -1,7 +1,7 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: thebiogrid.org 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene-interaction network containing ~90% of all genes in the budding yeast (Saccharomyces cerevisiae) and their high-confidence interactions. The vertices are genes and an edge represents the fact that individuals missing both genes are significantly less viable than if they miss only one gene. Data gathered by Costanzo, M. et al., A global genetic interaction network maps a wiring diagram of cellular function. Science, 353(6306), 2016. http://dx.doi.org/10.1126/science.aaf1420 
 p tdp 10020 380059
 1 2
 1 3

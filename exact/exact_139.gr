@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641 
 p tdp 128 266
 43 48
 43 68

@@ -1,7 +1,7 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: string-db.org 
-c DESCRIPTION: nan 
+c DESCRIPTION: STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Cellvibrio gilvus. 
 p tdp 3138 35840
 395 1582
 395 6

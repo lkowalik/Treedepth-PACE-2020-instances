@@ -1,7 +1,7 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: snap.stanford.edu/biodata/ 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a protein-protein interaction network that contains physical interactions between proteins that are experimentally documented in humans, such as metabolic enzyme-coupled interactions and signaling interactions. Nodes represent human proteins and edges represent physical interaction between proteins in a human cell. The information is restricted to protein-protein interactions that are experimentally verified in wet biological laboratories. Reference: Large-scale analysis of disease pathways in the human interactome. Monica Agrawal, Marinka Zitnik, and Jure Leskovec. Pacific Symposium on Biocomputing. 2018. 
 p tdp 21539 338643
 342 418
 342 5657

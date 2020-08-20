@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network accounts for cell fate decision network in the AGS gastric cancer cell line. Reference: Flobak, \AAsmund, Baudot, Ana\"is, Remy, E., Thommesen, L., Thieffry, D., Kuiper, M., & L\aegreid, Astrid (2015). Discovery of drug synergies in gastric cancer cells predicted by logical modeling. PLOS Computational Biology, 11(8), 1004426. http://dx.doi.org/10.1371/journal.pcbi.1004426 
 p tdp 77 146
 26 47
 26 67

@@ -69,7 +69,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 128 | 266 | 1.7 | biology | ginsim.org/models_repository | RodriguezJorge_Merged_TCR_TLR5_Signalling_BooleanModel_15Jul2018.gr | 
 
-**Description:** nan
+**Description:** This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in the T cell receptor (TCR) signalling pathway and the Toll-like receptor (TLR5) signalling pathway. Reference: Rodr\'iguez-Jorge, Otoniel, Kempis-Calanis, Linda A., Abou-Jaoud\'e, Wassim, Guti\'errez-Reyna, Darely Y., Hernandez, C\'eline, Ramirez-Pliego, Oscar, Thomas-Chollier, Morgane, … (2019). Cooperation between t cell receptor and toll-like receptor 5 signaling for cd4+ t cell activation. Science Signaling, 12(577). http://dx.doi.org/10.1126/scisignal.aar3641
 ## [heur_013.gr](heur/heur_013.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -171,7 +171,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 244 | 290 | 2.0 | biology | www.genome.jp/kegg/ | mpp01110.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mpp01110 Biosynthesis of secondary metabolites - Micromonas pusilla".
 ## [heur_030.gr](heur/heur_030.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -225,7 +225,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 300 | 508 | 3.3 | biology | thebiogrid.org | S1_Table.gr | 
 
-**Description:** nan
+**Description:** This is a protein-interaction network containing interactions determined using tandem-affinity purification. Data gathered by Cloutier, P. et al., R2tp/prefoldin-like component ruvbl1/ruvbl2 directly interacts with znhit2 to regulate assembly of u5 small nuclear ribonucleoprotein. Nature Communications, 8(1), 15615, 2007. http://dx.doi.org/10.1038/ncomms15615
 ## [heur_039.gr](heur/heur_039.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -237,7 +237,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 313 | 386 | 2.7 | biology | www.genome.jp/kegg/ | ppp01110.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ppp01110 Biosynthesis of secondary metabolites - Physcomitrium patens".
 ## [heur_041.gr](heur/heur_041.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -273,7 +273,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 423 | 540 | 3.8 | biology | www.genome.jp/kegg/ | mrt01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mrt01100 Metabolic pathways - Malassezia restricta".
 ## [heur_047.gr](heur/heur_047.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -291,13 +291,13 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 491 | 645 | 4.7 | biology | thebiogrid.org | Bandyopadhyay2010.gr | 
 
-**Description:** nan
+**Description:** This is a protein-interaction network between human mitogen-activated protein kinase (MAPK)-related proteins and other cellular machinery. The nodes are the proteins and edges represent that the proteins bind to each other as detected by using "yeast two-hybrid screening". Data gathered by Bandyopadhyay, S. et al., A human map kinase interactome. Nature Methods, 7(10), 801–805, 2010. http://dx.doi.org/10.1038/nmeth.1506
 ## [heur_050.gr](heur/heur_050.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
 493 | 618 | 4.4 | biology | www.genome.jp/kegg/ | adl01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "adl01100 Metabolic pathways - Auricularia subglabra".
 ## [heur_051.gr](heur/heur_051.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -321,7 +321,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 564 | 713 | 5.2 | biology | www.genome.jp/kegg/ | shs01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "shs01100 Metabolic pathways - Stereum hirsutum".
 ## [heur_055.gr](heur/heur_055.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -351,7 +351,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 669 | 861 | 6.3 | biology | www.genome.jp/kegg/ | ccae01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "ccae01100 Metabolic pathways - Cyanistes caeruleus (blue tit)".
 ## [heur_060.gr](heur/heur_060.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -369,7 +369,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 800 | 1020 | 7.6 | biology | www.genome.jp/kegg/ | sfm01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "sfm01100 Metabolic pathways - Scleropages formosus (Asian bonytongue)".
 ## [heur_063.gr](heur/heur_063.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -381,7 +381,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 820 | 1033 | 7.7 | biology | www.genome.jp/kegg/ | mjv01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mjv01100 Metabolic pathways - Manis javanica (Malayan pangolin)".
 ## [heur_065.gr](heur/heur_065.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -393,7 +393,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 858 | 1078 | 8.0 | biology | www.genome.jp/kegg/ | mcf01100.kgml.gr-0.gr | 
 
-**Description:** nan
+**Description:** This is a graph derived from a biological pathway map. The nodes are genes (also representing their associated proteins), enzymes, or chemical compounds, and there is an edge between two nodes if they influence each other (such as a gene modifying the expression of another gene) or take part in a common chemical reaction. This graph is a connected part of the map "mcf01100 Metabolic pathways - Macaca fascicularis (crab-eating macaque)".
 ## [heur_067.gr](heur/heur_067.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -435,7 +435,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 1165 | 35474 | 279.3 | biology | snap.stanford.edu/biodata/ | NE5K_HiC_Net_15.gr | 
 
-**Description:** nan
+**Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (5K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_074.gr](heur/heur_074.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -477,7 +477,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 1634 | 23805 | 189.8 | biology | string-db.org | 78344.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Bifidobacterium gallinarum.
 ## [heur_081.gr](heur/heur_081.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -495,7 +495,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 2004 | 34196 | 274.3 | biology | string-db.org | 706437.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Streptococcus anginosus F0211.
 ## [heur_084.gr](heur/heur_084.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -531,13 +531,13 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 2538 | 6538 | 55.2 | biology | thebiogrid.org | HC-BIOGRID-2.0.31-nohead.gr | 
 
-**Description:** nan
+**Description:** This is a protein-interaction network containing high-confidence interactions that are corroborated by multiple methods. Compiled by Batada, N. N. et al., Still stratus not altocumulus: further evidence against the date/party hub distinction. PLOS Biology, 5(6), 154, 2007. http://dx.doi.org/10.1371/journal.pbio.0050154
 ## [heur_090.gr](heur/heur_090.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
 2725 | 46608 | 401.6 | biology | string-db.org | 1123503.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Woodsholea maritima.
 ## [heur_091.gr](heur/heur_091.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -555,7 +555,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 3138 | 35840 | 300.5 | biology | string-db.org | 593907.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Cellvibrio gilvus.
 ## [heur_094.gr](heur/heur_094.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -573,7 +573,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 3576 | 219227 | 2000.3 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_12.gr | 
 
-**Description:** Protein-coding genes are DNA sequences that code for proteins. Each gene tells the cell how to put together the building blocks for one specific protein (there exist exceptions to this general principle, e.g., isoforms). The DNA sequences are first transcribed into mRNA. The corresponding mRNA molecules are then translated into polypeptide chains and these chains ultimately result in a protein, which is a working molecule in the cell.  References: The BioMart community portal: an innovative alternative to large, centralized data repositories. Smedley, Damian, et al. Nucleic Acids Research. 2015. Ensembl 2015. Cunningham, Fiona, et al. Nucleic Acids Research. 2014.
+**Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_097.gr](heur/heur_097.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -585,19 +585,19 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 4050 | 72049 | 654.5 | biology | string-db.org | 351016.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Roseobacter sp. AzwK3b.
 ## [heur_099.gr](heur/heur_099.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
 4319 | 64691 | 560.4 | biology | thebiogrid.org | Costanzo2010-StringentCutoff.gr | 
 
-**Description:** nan
+**Description:** This is a gene-interaction network containing ~75% of all genes in the budding yeast (Saccharomyces cerevisiae). The vertices are genes and an edge represents the fact that individuals missing both genes are significantly less viable than if they miss only one gene. Data gathered by Costanzo, M. et al., The genetic landscape of a cell, Science, 327(5964), 425–431, 2010. http://dx.doi.org/10.1126/science.1180823
 ## [heur_100.gr](heur/heur_100.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
 4835 | 71266 | 626.3 | biology | string-db.org | 272630.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Methylobacterium extorquens AM1.
 ## [heur_101.gr](heur/heur_101.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -627,7 +627,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 5200 | 385300 | 3573.6 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_14.gr | 
 
-**Description:** nan
+**Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_106.gr](heur/heur_106.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -639,19 +639,19 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 5478 | 341851 | 3173.4 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_18.gr | 
 
-**Description:** nan
+**Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_108.gr](heur/heur_108.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
 6024 | 114522 | 1019.5 | biology | string-db.org | 1108849.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Penicillium rubens.
 ## [heur_109.gr](heur/heur_109.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
 6806 | 366239 | 3450.4 | biology | snap.stanford.edu/biodata/ | NE1K_HiC_Net_21.gr | 
 
-**Description:** nan
+**Description:** This is a Hi-C interaction network. Hi-C is a chromosome conformation capture (3C)-based technology, an experimental approach for understanding chromatin interactions within DNA. The Hi-C technology measures pairwise chromatin interaction frequencies within a cell population. The genome is divided into bins of equal size (1K bases long), and the number of contacts observed between each pair of bins is reported. Nodes represent genomic regions and weighted edges represent normalized contacts between two regions in the genome.
 ## [heur_110.gr](heur/heur_110.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -663,7 +663,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 6974 | 177381 | 1569.2 | biology | string-db.org | 29875.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein interaction network of Trichoderma virens.
 ## [heur_112.gr](heur/heur_112.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -705,7 +705,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 7778 | 36300 | 309.6 | biology | thebiogrid.org | hu.MAP_edges_BioGRID_format_v3_cleaned.gr | 
 
-**Description:** nan
+**Description:** This is a protein-interaction network containing interactions between human proteins determined by mass-spectrometry. Compiled by Drew, K. et al., Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes. Molecular Systems Biology, 13(6), 932, 2017. http://dx.doi.org/10.15252/msb.20167490
 ## [heur_119.gr](heur/heur_119.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -717,7 +717,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 8567 | 99636 | 927.6 | biology | string-db.org | 680198.protein.links.v11.0.txt.gr | 
 
-**Description:** nan
+**Description:** STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. This is a protein-interaction network of Streptomyces scabiei.
 ## [heur_121.gr](heur/heur_121.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -729,7 +729,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 10020 | 380059 | 3545.0 | biology | thebiogrid.org | Costanzo2016-HighestConfidence.tab.gr | 
 
-**Description:** nan
+**Description:** This is a gene-interaction network containing ~90% of all genes in the budding yeast (Saccharomyces cerevisiae) and their high-confidence interactions. The vertices are genes and an edge represents the fact that individuals missing both genes are significantly less viable than if they miss only one gene. Data gathered by Costanzo, M. et al., A global genetic interaction network maps a wiring diagram of cellular function. Science, 353(6306), 2016. http://dx.doi.org/10.1126/science.aaf1420
 ## [heur_123.gr](heur/heur_123.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 
@@ -831,7 +831,7 @@ vertices   | edges   | size (kB) | type | origin | source filename
  --- | --- | --- | --- | --- | --- | 
 21539 | 338643 | 3213.7 | biology | snap.stanford.edu/biodata/ | PP-Pathways_ppi_repaired_encoding.gr | 
 
-**Description:** nan
+**Description:** This is a protein-protein interaction network that contains physical interactions between proteins that are experimentally documented in humans, such as metabolic enzyme-coupled interactions and signaling interactions. Nodes represent human proteins and edges represent physical interaction between proteins in a human cell. The information is restricted to protein-protein interactions that are experimentally verified in wet biological laboratories. Reference: Large-scale analysis of disease pathways in the human interactome. Monica Agrawal, Marinka Zitnik, and Jure Leskovec. Pacific Symposium on Biocomputing. 2018.
 ## [heur_140.gr](heur/heur_140.gr)
 vertices   | edges   | size (kB) | type | origin | source filename 
  --- | --- | --- | --- | --- | --- | 

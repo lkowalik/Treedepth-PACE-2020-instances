@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network contains genes involved in macrophage differentiation. Reference: Collombet, S., van Oevelen, C., Ortega, J. L. S., Abou-Jaoud\'e, Wassim, Stefano, B. D., Thomas-Chollier, Morgane, Graf, T., … (2017). Logical modeling of lymphoid and myeloid cell specification and transdifferentiation. Proceedings of the National Academy of Sciences, 114(23), 5792–5799. http://dx.doi.org/10.1073/pnas.1610622114 
 p tdp 33 78
 10 11
 10 17

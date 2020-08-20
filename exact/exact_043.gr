@@ -1,7 +1,7 @@
 c This is an instance of the exact track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
 c TYPE: biology 
 c ORIGIN: ginsim.org/models_repository 
-c DESCRIPTION: nan 
+c DESCRIPTION: This is a gene regulatory network where the nodes are genes or cell states and edges correspond to regulatory interactions between pairs of genes or states, for example, if one gene is upregulated and reaches a certain level of activation, then another gene is upregulated as well. This network captures the interplay between antigen recognition with reactive oxygen species and metabolic status in T cell responses. S\'anchez-Villanueva, Jos\'e Antonio, Rodr\'iguez-Jorge, Otoniel, Ram\'irez-Pliego, Oscar, Salgado, G. R., Abou-Jaoud\'e, Wassim,Hernandez, C\'eline, Naldi, Aur\'elien, … (2019). Contribution of ros and metabolic status to neonatal and adult cd8+ t cell activation. PLOS ONE, 14(12), 0226388. http://dx.doi.org/10.1371/journal.pone.0226388 
 p tdp 40 129
 9 26
 9 21
