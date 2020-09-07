@@ -4,7 +4,7 @@ This repository contains public and private instances used in [PACE 2020 challen
 
 - **biology:** Graphs coming from applications in biology, biochemistry and medicine. 
 Downloaded from [BioGRID](https://thebiogrid.org/), [SNAP](http://snap.stanford.edu/biodata/), [ginsim.org](ginsim.org/models_repository), [KEGG](https://www.genome.jp/kegg/), [STRING](https://string-db.org/) and [network repository](http://networkrepository.com/chem.php)
-- **computer science:** [Control-flow graphs](github.com/freetdi/CFGs) of C functions and graphs originating from register allocation for variables in real codes, created for [DIMACS Coloring Challenge 1992-1993](http://www.dimacs.rutgers.edu/archive/Challenges/). 
+- **computer science:** [Control-flow graphs](http://github.com/freetdi/CFGs) of C functions and graphs originating from register allocation for variables in real codes, created for [DIMACS Coloring Challenge 1992-1993](http://www.dimacs.rutgers.edu/archive/Challenges/). 
 - **generated:** Graphs obtained from Python's networkx generators: expanders, grids, random cubic graphs, Waxman graphs (random geometric graphs)
 - **infrastracture:** road graphs obtained from open street maps, power grid networks (from  [network repository](http://networkrepository.com/power.php), [public transport graphs](http://github.com/daajoe/transit_graphs) contributed by Johannes Fichte for PACE 2016 
 - **named:** small named graphs like the Petersen graph, the flower snark, etc., originating from [SageMath](https://www.sagemath.org/).
