@@ -11,12 +11,14 @@ Downloaded from [BioGRID](https://thebiogrid.org/), [SNAP](http://snap.stanford.
 - **planted:** random trees and cycles of cliques poluted with random edges that go bottom-up the optimal treedepth decomposition. These instances were needed for testing correctness of treedepth solvers, because the generator was able to compute the optimum treedepth in polynomial time.
 - **social:** social networks originating from interations between people, animals, fiction characters.
 
-If you use the collection please cite the report 
-> Kowalik, Mucha, Nadara, Pilipczuk, Sorge, Wygocki *The PACE 2020 Parameterized Algorithms and Computational Experiments Challenge: Treedepth*, Proc. IPEC 2020, LIPICS (To appear).
+If you use the collection please cite the [report](https://doi.org/10.4230/LIPIcs.IPEC.2020.37) 
+> Kowalik, Mucha, Nadara, Pilipczuk, Sorge, Wygocki *The PACE 2020 Parameterized Algorithms and Computational Experiments Challenge: Treedepth*, Proc. 15th International Symposium on Parameterized and Exact Computation (IPEC 2020), pp. 37:1--37:18, 2020.
+
+Below we give some summary of the instances; more information can be found in the [report](https://doi.org/10.4230/LIPIcs.IPEC.2020.37).
 
 ## Instances for Exact Track
 
-The instances are in `exact` folder. See [descripion of all instances](exact.md) (the same information can be found in the `exact.csv` file).
+The instances are in `exact` folder. See [descripion of all instances](exact.md), including the treedepths found by PACE participants (the same information can be found in the `exact.csv` file).
 The distribution of categories is as follows.
 
 | domain | number of instances |
@@ -38,8 +40,7 @@ There are 200 benchmark instances, labeled exact001.gr to exact200.gr. The insta
 
 ## Instances for Heuristic Track
 
-The instances are in `heur` folder. See [descripion of all instances](heur.md) (the same information can be found in the `heur.csv` file).
-The distribution of categories is as follows.
+The instances are in `heur` folder. See [descripion of all instances](heur.md) (the same information can be found in the `heur.csv` file), including upper bounds on the treedepths found by PACE participants. The distribution of categories is as follows.
 
 | domain | number of instances |
 | --- | --- |
