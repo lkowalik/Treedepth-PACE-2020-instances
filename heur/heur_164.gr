@@ -1,5 +1,5 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
-c TYPE: infrastracture 
+c TYPE: infrastructure 
 c ORIGIN: Open street maps 
 c DESCRIPTION: Bratislava (Slovakia): a road network downloaded from open street maps using osmnx Python package 
 p tdp 61125 85496

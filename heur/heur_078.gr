@@ -1,5 +1,5 @@
 c This is an instance of the heur track of PACE 2020 Challenge, see https://pacechallenge.org/2020/ 
-c TYPE: infrastracture 
+c TYPE: infrastructure 
 c ORIGIN: https://github.com/daajoe/transit_graphs 
 c DESCRIPTION: Transit graphs contributed by Johannes Fichte for PACE 2019 
 p tdp 1506 1862
